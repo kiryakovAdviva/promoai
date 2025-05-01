@@ -1,18 +1,1 @@
-.qodo
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.env.*
-*.sqlite3
-data/output/
-data/cache/
-data/input/
-logs/
-.DS_Store
-
-# Jupyter/VSCode
-.ipynb_checkpoints/
-.vscode/
+.venv/ 
