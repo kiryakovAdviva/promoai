@@ -1,0 +1,7 @@
+{
+    "input_folder": "./data/input",
+    "output_folder": "./data/output",
+    "normalization_map_path": "./data/normalization_map.json",
+    "suggestion_log_path": "./data/logs/normalization_suggestions.json",
+    "normalization_mode": "auto_extend"  
+  }
