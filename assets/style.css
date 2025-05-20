@@ -1,0 +1,134 @@
+/* --- START OF FILE assets/style.css (v8 - Simplified Chat/Input Styles) --- */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background-color: #f9f9f9; color: #1f1f1f; margin: 0; padding: 0;
+}
+.gradio-container {
+    max-width: 900px !important; margin: 20px auto !important;
+    background-color: #ffffff !important; border-radius: 16px !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.06) !important; padding: 25px !important;
+    border: 1px solid #e5e5e5;
+}
+
+/* --- Экран приветствия --- */
+#welcome_screen { text-align: center; padding: 40px 20px; }
+#welcome_header { font-size: 28px; font-weight: 600; color: #1f1f1f; margin-bottom: 8px; }
+#welcome_subheader { font-size: 16px; color: #5f6368; margin-bottom: 30px;}
+#welcome_screen button { font-size: 16px; padding: 10px 20px; min-width: 150px; }
+
+/* --- Экран чата --- */
+#chat_screen { padding-top: 10px; }
+#chat_title { display: none; }
+
+/* Чатбот */
+#chatbot {
+    border: none;
+    background-color: #ffffff; /* --- ИЗМЕНЕНИЕ: Вернули белый фон области чата --- */
+    min-height: 60vh;
+    box-shadow: none;
+    padding: 15px; /* Вернули паддинг */
+    border-radius: 12px; /* Скругление области чата */
+}
+
+/* --- ИЗМЕНЕНИЕ: Упрощенные стили сообщений --- */
+/* Стилизуем внешний контейнер сообщения */
+#chatbot > .chat-bubble-container .message-wrap { /* Более точный селектор */
+    max-width: 80%;
+    margin-bottom: 12px;
+    animation: fadeIn 0.3s ease-out;
+    border-radius: 18px; /* Общее скругление */
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* Легкая тень */
+    padding: 10px 15px; /* Внутренний отступ */
+    border: 1px solid #e9e9e9; /* Легкая граница для всех */
+}
+/* Выравнивание и фон для пользователя */
+#chatbot > .chat-bubble-container .user-message.message-wrap {
+    align-self: flex-end;
+    background-color: #f0f4f9; /* Светло-голубой фон */
+    border-color: #e0e6f0;
+    border-radius: 18px 4px 18px 18px; /* Скругление */
+    color: #1f1f1f;
+}
+/* Выравнивание и фон для бота */
+#chatbot > .chat-bubble-container .bot-message.message-wrap {
+    align-self: flex-start;
+    background-color: #ffffff; /* Белый фон */
+    border-color: #e9e9e9;
+    border-radius: 4px 18px 18px 18px; /* Скругление */
+    color: #1f1f1f;
+}
+/* Стили для текста внутри сообщения */
+#chatbot .message p { /* Стиль для параграфов внутри */
+   margin: 0; /* Убираем лишние отступы параграфов */
+   font-size: 15px;
+   line-height: 1.55;
+}
+/* Убираем лишние стили с внутренних элементов, если они есть */
+#chatbot .message, #chatbot .message div {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+
+/* Кнопка копирования (остается как было) */
+#chatbot .message.bot button.copy-button { /* Может потребоваться уточнить селектор */
+    position: absolute; top: 8px; right: 8px; padding: 2px !important;
+    background-color: rgba(255, 255, 255, 0.7) !important; border: 1px solid #e0e0e0 !important;
+    border-radius: 4px !important; width: 24px !important; height: 24px !important;
+    min-width: auto !important; opacity: 0; transition: opacity 0.2s ease;
+}
+#chatbot .message.bot:hover button.copy-button { opacity: 1; }
+#chatbot .message.bot button.copy-button > svg { width: 14px !important; height: 14px !important; color: #5f6368 !important; }
+#chatbot .message.bot button.copy-button > span { display: none; }
+/* --- Конец изменений стилей сообщений --- */
+
+
+/* Строка ввода */
+#input_row { margin-top: 15px; gap: 10px; align-items: flex-end; }
+/* --- ИЗМЕНЕНИЕ: Упрощение стилей ввода --- */
+/* Убираем стили с контейнера #user_input */
+#user_input {
+    border: none !important; box-shadow: none !important; padding: 0 !important;
+    background: transparent !important;
+}
+#user_input textarea {
+    font-size: 16px; padding: 12px 16px; border-radius: 20px;
+    border: 1px solid #c5c5c5 !important; background-color: #fff;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.05);
+    line-height: 1.4 !important; min-height: 50px !important;
+    overflow-y: auto !important; resize: none;
+    width: 100%; /* Занимает всю доступную ширину */
+}
+/* --- Конец изменения --- */
+
+#input_row button { /* Кнопка Отправить */
+    min-width: 100px; border-radius: 20px; align-self: flex-end;
+    padding: 14px 18px !important; font-size: 15px;
+    background-color: #4a4a4a !important;
+}
+#input_row button:hover { background-color: #333333 !important; }
+
+/* Примеры и очистка (остается как было) */
+#examples_row { margin-top: 10px; }
+#examples { padding: 0; border: none !important; box-shadow: none !important; background: transparent !important; }
+#examples > div { gap: 8px !important; flex-wrap: wrap !important; }
+#examples button {
+    background-color: #f1f3f4 !important; color: #3c4043 !important;
+    border-radius: 16px !important; border: 1px solid #dadce0 !important; margin: 0;
+    padding: 8px 12px; font-size: 13px; font-weight: normal;
+}
+#examples button:hover { background-color: #e8eaed !important; border-color: #ccc !important; }
+#clear_button_row { text-align: right; margin-top: 15px; padding-right: 10px; }
+#clear_button button {
+    background-color: transparent !important; color: #6c757d !important; border: none !important;
+    font-size: 13px; padding: 5px 0px; font-weight: normal; float: right; margin-top: 8px;
+}
+#clear_button button:hover { color: #333 !important; background: transparent !important; text-decoration: underline;}
+#clear_button button > span:first-child { display: none; }
+#clear_button button > span:last-child { display: inline !important; }
+
+footer { display: none; }
+
+@keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+/* --- END OF FILE assets/style.css --- */

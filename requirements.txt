@@ -1,0 +1,17 @@
+gradio
+faiss-cpu
+python-dotenv
+tqdm
+openai
+nltk
+pdfplumber
+python-docx
+scikit-learn
+sentence-transformers
+numpy
+pandas
+PyCryptodome
+google-generativeai
+together
+langchain
+openpyxl

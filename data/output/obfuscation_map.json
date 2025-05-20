@@ -1,0 +1,5372 @@
+{
+  "@@NAME_4821a0665d82@@": {
+    "type": "name",
+    "original": "Запуск Промо\nПроцесс",
+    "hash": "944342f94e82645f"
+  },
+  "@@NAME_437914f066e3@@": {
+    "type": "name",
+    "original": "Срочных Промо",
+    "hash": "68b711df0e9c50f1"
+  },
+  "@@NAME_e19c4f5e5f6c@@": {
+    "type": "name",
+    "original": "Запуск Акции",
+    "hash": "bf344c00e7232504"
+  },
+  "@@NAME_c12188eb7826@@": {
+    "type": "name",
+    "original": "Команда Промо",
+    "hash": "6324a7c74f446a67"
+  },
+  "@@NAME_ce143e731edd@@": {
+    "type": "name",
+    "original": "Команда Промо",
+    "hash": "6324a7c74f446a67"
+  },
+  "@@TOOL_c3e35906d8a1@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_6b45c442386b@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@NAME_19471d207f72@@": {
+    "type": "name",
+    "original": "Имя Лидера",
+    "hash": "c31853c189a6c5bc"
+  },
+  "@@NAME_71c9fedb69ed@@": {
+    "type": "name",
+    "original": "Команда Промо",
+    "hash": "6324a7c74f446a67"
+  },
+  "@@TOOL_b9ba84cf7712@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@CONTACT_ffb19560e075@@": {
+    "type": "contact",
+    "original": "@Anush_FR",
+    "hash": "9d804091db754ceb"
+  },
+  "@@CONTACT_156a3c7d1a33@@": {
+    "type": "contact",
+    "original": "a.karamyan@double.global",
+    "hash": "eb0e9e1a2b41b296"
+  },
+  "@@CONTACT_615e5fbbd0d9@@": {
+    "type": "contact",
+    "original": "@etoannakes",
+    "hash": "3eae9b8145125dbf"
+  },
+  "@@CONTACT_dd8b5816d345@@": {
+    "type": "contact",
+    "original": "a.vedischeva@double.global",
+    "hash": "bff629d80eed0466"
+  },
+  "@@CONTACT_cb364d82627d@@": {
+    "type": "contact",
+    "original": "@anna_mikhaylova_MB_CRM",
+    "hash": "c6d814b35c3811fd"
+  },
+  "@@CONTACT_249dd9ab4021@@": {
+    "type": "contact",
+    "original": "a.mikhailova@double.global",
+    "hash": "7b1c85bca66b80bc"
+  },
+  "@@CONTACT_e40132111f9c@@": {
+    "type": "contact",
+    "original": "@cathy_mkhn",
+    "hash": "fb7846b158918d7c"
+  },
+  "@@CONTACT_b7e4ce3f1cd7@@": {
+    "type": "contact",
+    "original": "e.marinina@double.global",
+    "hash": "b9fb77cca41b77ce"
+  },
+  "@@CONTACT_44f1c4a56a9c@@": {
+    "type": "contact",
+    "original": "@kostiknovik",
+    "hash": "8bc68fb6f56f54d0"
+  },
+  "@@CONTACT_2ee28a2f3afc@@": {
+    "type": "contact",
+    "original": "k.kisenkov@dats.team",
+    "hash": "0275e9ab7a1eb019"
+  },
+  "@@CONTACT_9473e60850eb@@": {
+    "type": "contact",
+    "original": "@AnnaS_PM",
+    "hash": "6ab11abad29d3601"
+  },
+  "@@CONTACT_cdf9329f8000@@": {
+    "type": "contact",
+    "original": "a.surovitskaya@double.global",
+    "hash": "3ae8f66869115672"
+  },
+  "@@CONTACT_f255284f6f66@@": {
+    "type": "contact",
+    "original": "@Petr_AG",
+    "hash": "95960dc19b39c356"
+  },
+  "@@CONTACT_9862d0650baa@@": {
+    "type": "contact",
+    "original": "petr@adviva.com",
+    "hash": "a6b4a328adb4bb5b"
+  },
+  "@@NAME_c2600273347f@@": {
+    "type": "name",
+    "original": "Имя Фамилия Отдел",
+    "hash": "b6b9aba659346334"
+  },
+  "@@NAME_df9706387265@@": {
+    "type": "name",
+    "original": "Телеграм Почта",
+    "hash": "82ac8ebee682db24"
+  },
+  "@@NAME_fdedde403fcf@@": {
+    "type": "name",
+    "original": "Кисенков Константин",
+    "hash": "e1fdc0d384c2eb4c"
+  },
+  "@@PROJECT_222656526e4d@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@CONTACT_937f22b9f4c5@@": {
+    "type": "contact",
+    "original": "@Anush_FR",
+    "hash": "9d804091db754ceb"
+  },
+  "@@CONTACT_0cd1b814ff26@@": {
+    "type": "contact",
+    "original": "a.karamyan@double.global",
+    "hash": "eb0e9e1a2b41b296"
+  },
+  "@@CONTACT_402b76529d43@@": {
+    "type": "contact",
+    "original": "@etoannakes",
+    "hash": "3eae9b8145125dbf"
+  },
+  "@@CONTACT_19b8ab2d8c04@@": {
+    "type": "contact",
+    "original": "a.vedischeva@double.global",
+    "hash": "bff629d80eed0466"
+  },
+  "@@CONTACT_1183c4492c90@@": {
+    "type": "contact",
+    "original": "@anna_mikhaylova_MB_CRM",
+    "hash": "c6d814b35c3811fd"
+  },
+  "@@CONTACT_2cc7c3efc930@@": {
+    "type": "contact",
+    "original": "a.mikhailova@double.global",
+    "hash": "7b1c85bca66b80bc"
+  },
+  "@@CONTACT_7b05e095933a@@": {
+    "type": "contact",
+    "original": "@cathy_mkhn",
+    "hash": "fb7846b158918d7c"
+  },
+  "@@CONTACT_aa177ac7dc77@@": {
+    "type": "contact",
+    "original": "e.marinina@double.global",
+    "hash": "b9fb77cca41b77ce"
+  },
+  "@@CONTACT_a7e48d9275b9@@": {
+    "type": "contact",
+    "original": "@kostiknovik",
+    "hash": "8bc68fb6f56f54d0"
+  },
+  "@@CONTACT_e1381f040b89@@": {
+    "type": "contact",
+    "original": "k.kisenkov@dats.team",
+    "hash": "0275e9ab7a1eb019"
+  },
+  "@@CONTACT_de719d8ab89a@@": {
+    "type": "contact",
+    "original": "@AnnaS_PM",
+    "hash": "6ab11abad29d3601"
+  },
+  "@@CONTACT_1525a9582609@@": {
+    "type": "contact",
+    "original": "a.surovitskaya@double.global",
+    "hash": "3ae8f66869115672"
+  },
+  "@@CONTACT_0b5848f74938@@": {
+    "type": "contact",
+    "original": "@Petr_AG",
+    "hash": "95960dc19b39c356"
+  },
+  "@@CONTACT_a3f82eef88da@@": {
+    "type": "contact",
+    "original": "petr@adviva.com",
+    "hash": "a6b4a328adb4bb5b"
+  },
+  "@@NAME_34732bb3ceb6@@": {
+    "type": "name",
+    "original": "Имя Фамилия",
+    "hash": "c368ab05220715fb"
+  },
+  "@@NAME_3c5969db71e2@@": {
+    "type": "name",
+    "original": "Кисенков Константин",
+    "hash": "e1fdc0d384c2eb4c"
+  },
+  "@@PROJECT_b4443e61c008@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@NAME_19542e604524@@": {
+    "type": "name",
+    "original": "Запуск Промо",
+    "hash": "b9ff4438f8d660ef"
+  },
+  "@@CONTACT_d0239b169c14@@": {
+    "type": "contact",
+    "original": "@OlgaRTM",
+    "hash": "f0cb7d2575a0a4e1"
+  },
+  "@@CONTACT_82c9cccde308@@": {
+    "type": "contact",
+    "original": "olga.r@adviva.com",
+    "hash": "e6d4191b31f40472"
+  },
+  "@@CONTACT_233ef1db101f@@": {
+    "type": "contact",
+    "original": "@Stacy_bi_promo",
+    "hash": "0f309d7edd0a6faa"
+  },
+  "@@CONTACT_5a48765fc8f0@@": {
+    "type": "contact",
+    "original": "a.strukova@adviva.com",
+    "hash": "690c7e755bf3ca39"
+  },
+  "@@CONTACT_8a1025d81bba@@": {
+    "type": "contact",
+    "original": "@sophie_mv",
+    "hash": "91874f0e95c65e3b"
+  },
+  "@@CONTACT_cefafd51abae@@": {
+    "type": "contact",
+    "original": "s.makarova@double.global",
+    "hash": "f589eab35758b6dc"
+  },
+  "@@CONTACT_7c653b1d44cf@@": {
+    "type": "contact",
+    "original": "@helgastgr",
+    "hash": "c352711feab5b67a"
+  },
+  "@@CONTACT_6e76977070af@@": {
+    "type": "contact",
+    "original": "h.steiger@double.global",
+    "hash": "82f38776a9776d6c"
+  },
+  "@@CONTACT_4766b76721b3@@": {
+    "type": "contact",
+    "original": "@rapoport_HMO",
+    "hash": "a201c0e4cb0c6b26"
+  },
+  "@@CONTACT_c8e68cf2b892@@": {
+    "type": "contact",
+    "original": "a.rapoport@double.global",
+    "hash": "d365e999576469cc"
+  },
+  "@@CONTACT_7123d0502441@@": {
+    "type": "contact",
+    "original": "@igor2811",
+    "hash": "25411fbd1f2dd109"
+  },
+  "@@CONTACT_ac79f7a90291@@": {
+    "type": "contact",
+    "original": "i.gladkov@adviva.com",
+    "hash": "065866cca8bc3bea"
+  },
+  "@@CONTACT_a476ab7a844f@@": {
+    "type": "contact",
+    "original": "@OlgaRTM",
+    "hash": "f0cb7d2575a0a4e1"
+  },
+  "@@CONTACT_ec1579d7ad59@@": {
+    "type": "contact",
+    "original": "olga.r@adviva.com",
+    "hash": "e6d4191b31f40472"
+  },
+  "@@CONTACT_e2c6e474c782@@": {
+    "type": "contact",
+    "original": "@Stacy_bi_promo",
+    "hash": "0f309d7edd0a6faa"
+  },
+  "@@CONTACT_3cdf3790d937@@": {
+    "type": "contact",
+    "original": "a.strukova@adviva.com",
+    "hash": "690c7e755bf3ca39"
+  },
+  "@@CONTACT_44227bd05759@@": {
+    "type": "contact",
+    "original": "@sophie_mv",
+    "hash": "91874f0e95c65e3b"
+  },
+  "@@CONTACT_5fac53394b9d@@": {
+    "type": "contact",
+    "original": "s.makarova@double.global",
+    "hash": "f589eab35758b6dc"
+  },
+  "@@CONTACT_dc6af4a90f08@@": {
+    "type": "contact",
+    "original": "@helgastgr",
+    "hash": "c352711feab5b67a"
+  },
+  "@@CONTACT_6a45a30184bd@@": {
+    "type": "contact",
+    "original": "h.steiger@double.global",
+    "hash": "82f38776a9776d6c"
+  },
+  "@@CONTACT_fa8b8df7a812@@": {
+    "type": "contact",
+    "original": "@rapoport_HMO",
+    "hash": "a201c0e4cb0c6b26"
+  },
+  "@@CONTACT_02d69f2df9c6@@": {
+    "type": "contact",
+    "original": "a.rapoport@double.global",
+    "hash": "d365e999576469cc"
+  },
+  "@@CONTACT_b4b889b18913@@": {
+    "type": "contact",
+    "original": "@igor2811",
+    "hash": "25411fbd1f2dd109"
+  },
+  "@@CONTACT_49eb09408c53@@": {
+    "type": "contact",
+    "original": "i.gladkov@adviva.com",
+    "hash": "065866cca8bc3bea"
+  },
+  "@@NAME_d2fa7e15bd5c@@": {
+    "type": "name",
+    "original": "Запуск Промо",
+    "hash": "b9ff4438f8d660ef"
+  },
+  "@@CONTACT_3f6b2798f900@@": {
+    "type": "contact",
+    "original": "y.aksenov@double.global",
+    "hash": "3fe2579b224fa0a3"
+  },
+  "@@CONTACT_25aa4c53f176@@": {
+    "type": "contact",
+    "original": "y.pekina@double.global",
+    "hash": "49510c9ef32884b0"
+  },
+  "@@CONTACT_46ca17f26f99@@": {
+    "type": "contact",
+    "original": "m.varsonofeva@double.global",
+    "hash": "7e1966e7bbdff0fb"
+  },
+  "@@CONTACT_83c82bd03768@@": {
+    "type": "contact",
+    "original": "m.roschina@double.global",
+    "hash": "4090fa2a41bce59e"
+  },
+  "@@CONTACT_09586bd1fa23@@": {
+    "type": "contact",
+    "original": "n.nersesyan@double.global",
+    "hash": "fb3fc49b209b2b4c"
+  },
+  "@@CONTACT_b8dcdcb1eee0@@": {
+    "type": "contact",
+    "original": "v.korolev@double.global",
+    "hash": "39b477d59499c5f3"
+  },
+  "@@URL_75411651013a@@": {
+    "type": "url",
+    "original": "https://t.me/tg35795190467",
+    "hash": "b0ae80d32ceb7025"
+  },
+  "@@URL_959666455371@@": {
+    "type": "url",
+    "original": "https://t.me/ypekina_promo",
+    "hash": "b124e7b3ca52c943"
+  },
+  "@@URL_9a1a75f7b005@@": {
+    "type": "url",
+    "original": "https://t.me/typicalmarina",
+    "hash": "660e8d2dec0cd724"
+  },
+  "@@URL_bf65a17299d7@@": {
+    "type": "url",
+    "original": "https://t.me/maksympromo",
+    "hash": "d9a237b2209543bc"
+  },
+  "@@URL_b118eaa3a07c@@": {
+    "type": "url",
+    "original": "https://t.me/nina_nersesyan_pm",
+    "hash": "fa0b43d319d21fed"
+  },
+  "@@URL_28eb413a578f@@": {
+    "type": "url",
+    "original": "https://t.me/Vitaly_promo",
+    "hash": "7944cdb436e3d1c0"
+  },
+  "@@DATE_acc553d7d259@@": {
+    "type": "date",
+    "original": "2024-09-13",
+    "hash": "fe37bb0d2462f3ff"
+  },
+  "@@DATE_e3393ee1c507@@": {
+    "type": "date",
+    "original": "2024-02-21",
+    "hash": "5b2f2ddf56656257"
+  },
+  "@@DATE_fbd70ff43c19@@": {
+    "type": "date",
+    "original": "2024-06-06",
+    "hash": "526c77f93bd232aa"
+  },
+  "@@DATE_ba35ff5054c1@@": {
+    "type": "date",
+    "original": "2024-11-04",
+    "hash": "0d04f02b0afbbe3a"
+  },
+  "@@CONTACT_b99106791f10@@": {
+    "type": "contact",
+    "original": "v.korolev@double.global",
+    "hash": "39b477d59499c5f3"
+  },
+  "@@CONTACT_c85af815faf9@@": {
+    "type": "contact",
+    "original": "j.aliyev@double.global",
+    "hash": "c44b4b05f97a552e"
+  },
+  "@@CONTACT_6db608b55b8d@@": {
+    "type": "contact",
+    "original": "b.bovykina@double.global",
+    "hash": "f29f03d46ad02136"
+  },
+  "@@CONTACT_ba76cc9ced24@@": {
+    "type": "contact",
+    "original": "v.popandopulo@double.global",
+    "hash": "0c721b4145f605d0"
+  },
+  "@@CONTACT_a8aa9eb88fc1@@": {
+    "type": "contact",
+    "original": "n.sheptukhin@double.global",
+    "hash": "54e0a4e61ec611d0"
+  },
+  "@@CONTACT_418939a22107@@": {
+    "type": "contact",
+    "original": "e.berezovskaya@double.global",
+    "hash": "a3032a63bc7c344a"
+  },
+  "@@CONTACT_276f5615ecc1@@": {
+    "type": "contact",
+    "original": "k.karavaeva@double.global",
+    "hash": "668ba424491f1f12"
+  },
+  "@@URL_842ba389670d@@": {
+    "type": "url",
+    "original": "https://t.me/Vitaly_promo",
+    "hash": "7944cdb436e3d1c0"
+  },
+  "@@URL_e0f343d5704e@@": {
+    "type": "url",
+    "original": "https://t.me/javidwork",
+    "hash": "487997dee90d855e"
+  },
+  "@@URL_7fdade60bee1@@": {
+    "type": "url",
+    "original": "https://t.me/bozhenafreemoney",
+    "hash": "825616cbb21388e3"
+  },
+  "@@URL_614fee3551db@@": {
+    "type": "url",
+    "original": "https://t.me/valera_promo",
+    "hash": "3c398eb27beeae19"
+  },
+  "@@URL_774115e3ceca@@": {
+    "type": "url",
+    "original": "https://t.me/nikita_sheptukhin_promo",
+    "hash": "a34f4a16da256bbd"
+  },
+  "@@URL_65a587894374@@": {
+    "type": "url",
+    "original": "https://t.me/jane_berezovskaya_promo",
+    "hash": "923e43315a92a2e3"
+  },
+  "@@URL_753376cce680@@": {
+    "type": "url",
+    "original": "https://t.me/karina_promo",
+    "hash": "4f81846012164a6b"
+  },
+  "@@DATE_2d58b5f43258@@": {
+    "type": "date",
+    "original": "2024-04-15",
+    "hash": "1e8831cdb9b22ffa"
+  },
+  "@@DATE_ac338663eb2a@@": {
+    "type": "date",
+    "original": "2024-11-06",
+    "hash": "45671b232453d44a"
+  },
+  "@@DATE_80df3f674a7d@@": {
+    "type": "date",
+    "original": "2024-08-09",
+    "hash": "069e2aabcaa127b4"
+  },
+  "@@DATE_b2927a12dd28@@": {
+    "type": "date",
+    "original": "2024-12-28",
+    "hash": "d70ea2acede48786"
+  },
+  "@@CONTACT_0fedf0a0a5f7@@": {
+    "type": "contact",
+    "original": "k.karavaeva@double.global",
+    "hash": "668ba424491f1f12"
+  },
+  "@@CONTACT_a25f8a85b60a@@": {
+    "type": "contact",
+    "original": "v.galkin@double.global",
+    "hash": "728759d53b66c0c2"
+  },
+  "@@CONTACT_ff2f0f6a4642@@": {
+    "type": "contact",
+    "original": "@WallAndTeen8",
+    "hash": "520221facaab7423"
+  },
+  "@@CONTACT_5ab8f9470830@@": {
+    "type": "contact",
+    "original": "as.kozlov@double.global",
+    "hash": "1c16ad308c05ab2b"
+  },
+  "@@CONTACT_f8d476b347b0@@": {
+    "type": "contact",
+    "original": "@Anton_marketing_manager",
+    "hash": "08c81bf46053f7ca"
+  },
+  "@@CONTACT_0bd1b6c14d01@@": {
+    "type": "contact",
+    "original": "l.dulova@double.global",
+    "hash": "f3c535440d2721c6"
+  },
+  "@@CONTACT_f105d6f4bd1d@@": {
+    "type": "contact",
+    "original": "@MMM_GOP_Lyubov",
+    "hash": "d57d529c06910ff5"
+  },
+  "@@CONTACT_bebe8d823e17@@": {
+    "type": "contact",
+    "original": "e.chudinova@double.global",
+    "hash": "268e2a5f674bff98"
+  },
+  "@@CONTACT_1f3342c53994@@": {
+    "type": "contact",
+    "original": "e.bayko@double.global",
+    "hash": "48e603059a6cddd6"
+  },
+  "@@CONTACT_8ece885819df@@": {
+    "type": "contact",
+    "original": "a.efremova@double.global",
+    "hash": "853e5b5435a6d551"
+  },
+  "@@CONTACT_c741df926b85@@": {
+    "type": "contact",
+    "original": "d.zarivnoy@double.global",
+    "hash": "7619e23b42c69cbe"
+  },
+  "@@URL_e9b911c6a8dd@@": {
+    "type": "url",
+    "original": "https://t.me/karina_promo",
+    "hash": "4f81846012164a6b"
+  },
+  "@@URL_2238198f99de@@": {
+    "type": "url",
+    "original": "https://t.me/Eugenia_VIP_Promo",
+    "hash": "41602a99517715f7"
+  },
+  "@@URL_fe277526c9ce@@": {
+    "type": "url",
+    "original": "https://t.me/katerina_bayko_MarketingManager",
+    "hash": "9ac1c58b48ea45ee"
+  },
+  "@@URL_9dff85a46103@@": {
+    "type": "url",
+    "original": "https://t.me/apostolikon",
+    "hash": "2cd63dcf2d81f407"
+  },
+  "@@URL_74f186633c42@@": {
+    "type": "url",
+    "original": "https://t.me/dmitry_zarivnoy_bonus",
+    "hash": "f3b69c0ebb44e076"
+  },
+  "@@DATE_fdd46b1f8337@@": {
+    "type": "date",
+    "original": "2024-07-09",
+    "hash": "e6b92b1a77ddf15f"
+  },
+  "@@CONTACT_191dc642e704@@": {
+    "type": "contact",
+    "original": "d.zarivnoy@double.global",
+    "hash": "7619e23b42c69cbe"
+  },
+  "@@CONTACT_71b06ac9e8f5@@": {
+    "type": "contact",
+    "original": "v.navrotskaya@double.global",
+    "hash": "244fe3e70cda3d5d"
+  },
+  "@@CONTACT_1746053c0ce7@@": {
+    "type": "contact",
+    "original": "@valeriya_nav",
+    "hash": "757deb68d5c9cfea"
+  },
+  "@@CONTACT_fc369b4d332a@@": {
+    "type": "contact",
+    "original": "k.trifonova@double.global",
+    "hash": "7dead58507b68fe5"
+  },
+  "@@CONTACT_4f4bd67137f4@@": {
+    "type": "contact",
+    "original": "a.polyak@double.global",
+    "hash": "70305df5ba275ddd"
+  },
+  "@@CONTACT_00ef2a45ae25@@": {
+    "type": "contact",
+    "original": "@Alesya_MSD",
+    "hash": "67f0cfe645ee7481"
+  },
+  "@@CONTACT_3f2772bda99a@@": {
+    "type": "contact",
+    "original": "m.mashugina@double.global",
+    "hash": "d91fd2f79165a74f"
+  },
+  "@@CONTACT_d41e48697c27@@": {
+    "type": "contact",
+    "original": "n.filatov@double.global",
+    "hash": "f855214a2ed27ede"
+  },
+  "@@CONTACT_c44dbd63758f@@": {
+    "type": "contact",
+    "original": "l.kasymova@double.global",
+    "hash": "008f34572d2579d2"
+  },
+  "@@CONTACT_c12aee58fd35@@": {
+    "type": "contact",
+    "original": "k.volkova@double.global",
+    "hash": "b1a3593417044ff9"
+  },
+  "@@URL_14fc2c1cfdb1@@": {
+    "type": "url",
+    "original": "https://t.me/dmitry_zarivnoy_bonus",
+    "hash": "f3b69c0ebb44e076"
+  },
+  "@@URL_64d5beb012d7@@": {
+    "type": "url",
+    "original": "https://t.me/Kris_Trifonova_PromoMarketing",
+    "hash": "87040a1d489a4356"
+  },
+  "@@URL_1d4d4c2e7432@@": {
+    "type": "url",
+    "original": "https://t.me/Rita_MSD",
+    "hash": "ca58d029c10fed5d"
+  },
+  "@@URL_d1d6932d560e@@": {
+    "type": "url",
+    "original": "https://t.me/nikolay_filatov_bonusmanager",
+    "hash": "005f150a172c4db3"
+  },
+  "@@URL_03a1b9935425@@": {
+    "type": "url",
+    "original": "https://t.me/tg35795901479",
+    "hash": "169728848b3fd7b2"
+  },
+  "@@URL_b598a89d0268@@": {
+    "type": "url",
+    "original": "https://t.me/tg35795904584",
+    "hash": "9d6a0ad1e74a2884"
+  },
+  "@@DATE_5b9106858635@@": {
+    "type": "date",
+    "original": "2024-05-26",
+    "hash": "dd8d5256b184c3e9"
+  },
+  "@@DATE_417a8201d8b4@@": {
+    "type": "date",
+    "original": "2024-09-13",
+    "hash": "fe37bb0d2462f3ff"
+  },
+  "@@CONTACT_1abc9d3e3ced@@": {
+    "type": "contact",
+    "original": "k.volkova@double.global",
+    "hash": "b1a3593417044ff9"
+  },
+  "@@CONTACT_acd9bb32642a@@": {
+    "type": "contact",
+    "original": "i.kiryakov@double.global",
+    "hash": "825eb4ffa0354446"
+  },
+  "@@CONTACT_345f4dc6b772@@": {
+    "type": "contact",
+    "original": "a.naumova@double.global",
+    "hash": "f22e65dc0f9691b0"
+  },
+  "@@CONTACT_457e166cf2cc@@": {
+    "type": "contact",
+    "original": "@anaumovaPM",
+    "hash": "0e485a4926e80427"
+  },
+  "@@CONTACT_2707c151ed6e@@": {
+    "type": "contact",
+    "original": "v.aminova@double.global",
+    "hash": "6305c7ae2581d4bf"
+  },
+  "@@CONTACT_ca70ca0a9f3e@@": {
+    "type": "contact",
+    "original": "@SMarketing_Manager_Viktoriya",
+    "hash": "e79a8757b5b5557f"
+  },
+  "@@URL_5e3fc386ac86@@": {
+    "type": "url",
+    "original": "https://t.me/tg35795904584",
+    "hash": "9d6a0ad1e74a2884"
+  },
+  "@@URL_b33b7de6450a@@": {
+    "type": "url",
+    "original": "https://t.me/IvanKrPM",
+    "hash": "0164349620247e4f"
+  },
+  "@@DATE_b085e1af4770@@": {
+    "type": "date",
+    "original": "2024-01-09",
+    "hash": "cde6a60d84aaab34"
+  },
+  "@@CONTACT_86293681a01a@@": {
+    "type": "contact",
+    "original": "f.lyubimtsev@double.global",
+    "hash": "46f4b344826690bd"
+  },
+  "@@CONTACT_0056924b47b0@@": {
+    "type": "contact",
+    "original": "a.kapotin@mostbet.com",
+    "hash": "509b8c8aff07d8bc"
+  },
+  "@@CONTACT_11d421e12b96@@": {
+    "type": "contact",
+    "original": "n.dvoretskiy@double.global",
+    "hash": "d7055806e71352b2"
+  },
+  "@@CONTACT_240e22abb46c@@": {
+    "type": "contact",
+    "original": "d.dyatlov@double.global",
+    "hash": "6a48aba0832b8b50"
+  },
+  "@@CONTACT_27f5b7b942c1@@": {
+    "type": "contact",
+    "original": "e.dosanov@double.global",
+    "hash": "d83398c62b3e6ecb"
+  },
+  "@@CONTACT_8b2a4577a103@@": {
+    "type": "contact",
+    "original": "e.milyutin@double.global",
+    "hash": "189c7c205d9cb094"
+  },
+  "@@CONTACT_994d8d2b098f@@": {
+    "type": "contact",
+    "original": "a.strukova@adviva.com",
+    "hash": "690c7e755bf3ca39"
+  },
+  "@@CONTACT_a888aeb0e496@@": {
+    "type": "contact",
+    "original": "o.morgunov@adviva.com",
+    "hash": "0619b62b3e9fde68"
+  },
+  "@@URL_447b39a86353@@": {
+    "type": "url",
+    "original": "https://t.me/Artem_Kapotin_Tech_CRM",
+    "hash": "8cb94561f4493187"
+  },
+  "@@URL_ab6401e79dfb@@": {
+    "type": "url",
+    "original": "https://t.me/nikita_dvoretskiy_tech_CRM",
+    "hash": "2cc704db4e2e33ce"
+  },
+  "@@URL_580882c1fd2d@@": {
+    "type": "url",
+    "original": "https://t.me/dmaldy",
+    "hash": "567dee12e3979156"
+  },
+  "@@URL_4bf3128bb747@@": {
+    "type": "url",
+    "original": "https://t.me/dossanov_crm",
+    "hash": "7f9c24783d60aed3"
+  },
+  "@@URL_b7204a6be0d9@@": {
+    "type": "url",
+    "original": "https://t.me/ed_6393",
+    "hash": "58f89dbe8d5d88cc"
+  },
+  "@@URL_3762fc46d3b7@@": {
+    "type": "url",
+    "original": "https://t.me/Stacy_bi_promo_analyst",
+    "hash": "b7224135db872578"
+  },
+  "@@URL_14e534bca4ce@@": {
+    "type": "url",
+    "original": "https://t.me/MPolegmorgunov",
+    "hash": "6fee115558a8d847"
+  },
+  "@@CONTACT_a7fa19dbec4c@@": {
+    "type": "contact",
+    "original": "o.morgunov@adviva.com",
+    "hash": "0619b62b3e9fde68"
+  },
+  "@@CONTACT_a9d2b0413028@@": {
+    "type": "contact",
+    "original": "e.pushkina@adviva.com",
+    "hash": "9305a0b7724df9de"
+  },
+  "@@CONTACT_363d92cbafa8@@": {
+    "type": "contact",
+    "original": "s.guryan@double.global",
+    "hash": "a19a0c4d0c1f39b2"
+  },
+  "@@CONTACT_d5c309fb2c92@@": {
+    "type": "contact",
+    "original": "s.mandrikov@double.global",
+    "hash": "ffa0300e9b74aa5f"
+  },
+  "@@CONTACT_81f6cc4c1661@@": {
+    "type": "contact",
+    "original": "h.steiger@double.global",
+    "hash": "82f38776a9776d6c"
+  },
+  "@@CONTACT_011c644900e1@@": {
+    "type": "contact",
+    "original": "a.khovhannisyan@double.global",
+    "hash": "5420145943f1a9cf"
+  },
+  "@@CONTACT_6c088393f5ec@@": {
+    "type": "contact",
+    "original": "da.rusanov@double.global",
+    "hash": "391a02fb10f242b7"
+  },
+  "@@CONTACT_f6b1759cb11d@@": {
+    "type": "contact",
+    "original": "n.lisovoy@double.global",
+    "hash": "d31001b8bee6b36f"
+  },
+  "@@CONTACT_68fe82385339@@": {
+    "type": "contact",
+    "original": "a.shelepaeva@double.global",
+    "hash": "d368184207c7b4d9"
+  },
+  "@@NAME_d6ff74259f3d@@": {
+    "type": "name",
+    "original": "Хельга Штейгер",
+    "hash": "5a20904211940752"
+  },
+  "@@NAME_75c3c5dd70e0@@": {
+    "type": "name",
+    "original": "Ани Оганисян",
+    "hash": "404861c3a5b54a65"
+  },
+  "@@NAME_6384bebdc55a@@": {
+    "type": "name",
+    "original": "Даниил Русанов",
+    "hash": "af442dcd30e3841c"
+  },
+  "@@NAME_d3316c0be725@@": {
+    "type": "name",
+    "original": "Никита Лисовой",
+    "hash": "a902bbdfade1b4f3"
+  },
+  "@@NAME_bad364c1837b@@": {
+    "type": "name",
+    "original": "Анастасия Шелепаева",
+    "hash": "427a2f96b38c25ea"
+  },
+  "@@URL_6cc4607c9126@@": {
+    "type": "url",
+    "original": "https://t.me/MPolegmorgunov",
+    "hash": "6fee115558a8d847"
+  },
+  "@@URL_f4d689b11c3d@@": {
+    "type": "url",
+    "original": "https://t.me/e_pus",
+    "hash": "65d5ecc69571ba85"
+  },
+  "@@URL_c9fe5c40eba2@@": {
+    "type": "url",
+    "original": "https://t.me/sergey_promo_bi",
+    "hash": "b1f0b827a0ee4c08"
+  },
+  "@@URL_bcf94d01e97f@@": {
+    "type": "url",
+    "original": "https://t.me/helgastgr",
+    "hash": "6c69cbab31590e01"
+  },
+  "@@URL_381851483ef0@@": {
+    "type": "url",
+    "original": "https://t.me/Annie_Hov",
+    "hash": "02b9d349c20ecb15"
+  },
+  "@@URL_352a938dc62c@@": {
+    "type": "url",
+    "original": "https://t.me/daniil_mostbet",
+    "hash": "9d26f00ec9f99ce1"
+  },
+  "@@URL_d328e76f9b76@@": {
+    "type": "url",
+    "original": "https://t.me/Nikita_L_seo",
+    "hash": "75b88cf3c0b407b8"
+  },
+  "@@URL_412eec5576eb@@": {
+    "type": "url",
+    "original": "https://t.me/acid_moon42",
+    "hash": "593dd5f529d846c8"
+  },
+  "@@CONTACT_46d07ee7aa20@@": {
+    "type": "contact",
+    "original": "a.shelepaeva@double.global",
+    "hash": "d368184207c7b4d9"
+  },
+  "@@CONTACT_5f189e2ee824@@": {
+    "type": "contact",
+    "original": "n.yagudin@double.global",
+    "hash": "36366006ea9ba30d"
+  },
+  "@@CONTACT_7196cc4e00c8@@": {
+    "type": "contact",
+    "original": "a.rapoport@double.global",
+    "hash": "d365e999576469cc"
+  },
+  "@@CONTACT_1a56967f1522@@": {
+    "type": "contact",
+    "original": "b.novruzov@double.global",
+    "hash": "6b01aed1179e707d"
+  },
+  "@@CONTACT_5db17a6bae47@@": {
+    "type": "contact",
+    "original": "s.uktamov@double.global",
+    "hash": "b582ca2a35d2c94c"
+  },
+  "@@CONTACT_8ab76714a647@@": {
+    "type": "contact",
+    "original": "d.kaliev@double.global",
+    "hash": "2efbba2a505e39e3"
+  },
+  "@@CONTACT_01c9a9b0fb9c@@": {
+    "type": "contact",
+    "original": "v.frolov@double.global",
+    "hash": "da4028e4c0cff80c"
+  },
+  "@@CONTACT_f9ed92b4eeab@@": {
+    "type": "contact",
+    "original": "s.rodrigez@double.global",
+    "hash": "3aa3f1754264eefc"
+  },
+  "@@CONTACT_b1c98807e4af@@": {
+    "type": "contact",
+    "original": "a.pashayev@double.global",
+    "hash": "cc5dfdb662a3475e"
+  },
+  "@@CONTACT_bdad3fe743e5@@": {
+    "type": "contact",
+    "original": "a.dementieva@double.global",
+    "hash": "13505881696dfeaf"
+  },
+  "@@NAME_70c201a955e0@@": {
+    "type": "name",
+    "original": "Анастасия Шелепаева",
+    "hash": "427a2f96b38c25ea"
+  },
+  "@@NAME_f649e7aa1ae4@@": {
+    "type": "name",
+    "original": "Никита Ягудин",
+    "hash": "6c688e5fc9ce308e"
+  },
+  "@@NAME_fa7b4b7c313a@@": {
+    "type": "name",
+    "original": "Александр Рапопорт",
+    "hash": "e7880ac929e88eed"
+  },
+  "@@NAME_502f9fd07a7f@@": {
+    "type": "name",
+    "original": "Байрам Новрузов",
+    "hash": "c20681ef60914d22"
+  },
+  "@@NAME_980849b2a202@@": {
+    "type": "name",
+    "original": "Ширхон Уктамов",
+    "hash": "d7964e616696a062"
+  },
+  "@@NAME_c9d976a1730e@@": {
+    "type": "name",
+    "original": "Дархан Калиев",
+    "hash": "7e3dd2632a41a421"
+  },
+  "@@NAME_eab850b79e41@@": {
+    "type": "name",
+    "original": "Валерий Фролов",
+    "hash": "f0c0648dcb5a807a"
+  },
+  "@@NAME_22fc2eb7b633@@": {
+    "type": "name",
+    "original": "Себастьян Родригез",
+    "hash": "f82b56503cfd1c5d"
+  },
+  "@@NAME_5835a37a9833@@": {
+    "type": "name",
+    "original": "Азамат Пашаев",
+    "hash": "2417f9398fe0d58e"
+  },
+  "@@NAME_573c894f9e30@@": {
+    "type": "name",
+    "original": "Анастасия Дементьева",
+    "hash": "c369a44fef0166ab"
+  },
+  "@@URL_17bc8641e56e@@": {
+    "type": "url",
+    "original": "https://t.me/acid_moon42",
+    "hash": "593dd5f529d846c8"
+  },
+  "@@URL_9c3ad5531f4e@@": {
+    "type": "url",
+    "original": "https://t.me/advik777",
+    "hash": "413a1072adb1618c"
+  },
+  "@@URL_c1bc77e5b534@@": {
+    "type": "url",
+    "original": "https://t.me/rapoport_HMO",
+    "hash": "9e2fb7e9ebf47775"
+  },
+  "@@URL_a75e8cf287b7@@": {
+    "type": "url",
+    "original": "https://t.me/BN_M_B",
+    "hash": "71d614f1922a0259"
+  },
+  "@@URL_7a3663060f49@@": {
+    "type": "url",
+    "original": "https://t.me/od1lbekk",
+    "hash": "0fc3f2af5bfd532d"
+  },
+  "@@URL_daa7138919ee@@": {
+    "type": "url",
+    "original": "https://t.me/darkhan_teamKZ",
+    "hash": "0172d49793737734"
+  },
+  "@@URL_75ee688f3b06@@": {
+    "type": "url",
+    "original": "https://t.me/mb_valery",
+    "hash": "7c171a1f5bbdc729"
+  },
+  "@@URL_e6fc495a5e85@@": {
+    "type": "url",
+    "original": "https://t.me/Seb_HMB",
+    "hash": "8c56961f51cf6cd7"
+  },
+  "@@URL_c1ce877d11e1@@": {
+    "type": "url",
+    "original": "https://t.me/leon00",
+    "hash": "7bdef98e6cd96df8"
+  },
+  "@@URL_6beb76f20b05@@": {
+    "type": "url",
+    "original": "https://t.me/Ana_streaming",
+    "hash": "5d86b7a95d0af2b1"
+  },
+  "@@CONTACT_437bc161c0ab@@": {
+    "type": "contact",
+    "original": "a.dementieva@double.global",
+    "hash": "13505881696dfeaf"
+  },
+  "@@CONTACT_bf1ff6d52d8c@@": {
+    "type": "contact",
+    "original": "a.chukhray@double.global",
+    "hash": "5576c2c379d401c6"
+  },
+  "@@CONTACT_3379b87b471e@@": {
+    "type": "contact",
+    "original": "a.romano@double.global",
+    "hash": "9aef16d1f79d772c"
+  },
+  "@@CONTACT_c213e68358c7@@": {
+    "type": "contact",
+    "original": "y.krylova@double.global",
+    "hash": "1d7a7b9f45a7fbda"
+  },
+  "@@CONTACT_e983485706eb@@": {
+    "type": "contact",
+    "original": "l.khachatryan@double.global",
+    "hash": "8b199a41d1414893"
+  },
+  "@@CONTACT_8226fcb5a905@@": {
+    "type": "contact",
+    "original": "n.budoragin@double.global",
+    "hash": "85a9dc7a596981b8"
+  },
+  "@@CONTACT_b821c874b62d@@": {
+    "type": "contact",
+    "original": "i.giniyatov@double.global",
+    "hash": "a29fb526f1ce7be6"
+  },
+  "@@CONTACT_bb500f00bb8a@@": {
+    "type": "contact",
+    "original": "g.ryaschenko@double.global",
+    "hash": "b6e7d90582122a62"
+  },
+  "@@CONTACT_487df641667f@@": {
+    "type": "contact",
+    "original": "o.reznichenko@double.global",
+    "hash": "aa5e06c26e7eae7c"
+  },
+  "@@NAME_9751aa415caa@@": {
+    "type": "name",
+    "original": "Анастасия Дементьева",
+    "hash": "c369a44fef0166ab"
+  },
+  "@@URL_061d173817e1@@": {
+    "type": "url",
+    "original": "https://t.me/Ana_streaming",
+    "hash": "5d86b7a95d0af2b1"
+  },
+  "@@URL_349e35c675da@@": {
+    "type": "url",
+    "original": "https://t.me/Marten_666",
+    "hash": "c4c533d7af9fc7d5"
+  },
+  "@@URL_8038add1bc66@@": {
+    "type": "url",
+    "original": "https://t.me/KrylovaYanina",
+    "hash": "54bad327493e0327"
+  },
+  "@@URL_32e2d8365c7d@@": {
+    "type": "url",
+    "original": "https://t.me/NikitaBudo",
+    "hash": "bccaf3b26da7bdc1"
+  },
+  "@@URL_318aa241df71@@": {
+    "type": "url",
+    "original": "https://t.me/ildarg777",
+    "hash": "3cc87b2e8b4a8e54"
+  },
+  "@@URL_17d595fbe98a@@": {
+    "type": "url",
+    "original": "https://t.me/Gyuzyal_VIP",
+    "hash": "84930fd8dab269e8"
+  },
+  "@@URL_30d7dfb8046e@@": {
+    "type": "url",
+    "original": "https://t.me/oleg_reznichenko_crm_mb_vip",
+    "hash": "99d7a14cea5e7bcb"
+  },
+  "@@CONTACT_493b4b7e7de9@@": {
+    "type": "contact",
+    "original": "o.reznichenko@double.global",
+    "hash": "aa5e06c26e7eae7c"
+  },
+  "@@CONTACT_74900972e8e6@@": {
+    "type": "contact",
+    "original": "a.ivanyuk@double.global",
+    "hash": "2875683f2ac2c9a1"
+  },
+  "@@CONTACT_3494a5a4ea0f@@": {
+    "type": "contact",
+    "original": "a.lakhtikova@double.global",
+    "hash": "f3596fe7ed1ef921"
+  },
+  "@@CONTACT_c5f4ab4d5cf1@@": {
+    "type": "contact",
+    "original": "e.marinina@double.global",
+    "hash": "b9fb77cca41b77ce"
+  },
+  "@@CONTACT_b5d80946b699@@": {
+    "type": "contact",
+    "original": "s.kamilov@double.global",
+    "hash": "d4316798bf3e4510"
+  },
+  "@@CONTACT_f69bf3ac5e70@@": {
+    "type": "contact",
+    "original": "k.ermakov@double.global",
+    "hash": "42a2755ace6dd6d1"
+  },
+  "@@CONTACT_dc5ac96b95e9@@": {
+    "type": "contact",
+    "original": "s.chukovskaya@double.global",
+    "hash": "f2fc8ac44687b3fa"
+  },
+  "@@CONTACT_f054247e0bf8@@": {
+    "type": "contact",
+    "original": "a.khaninaeva@double.global",
+    "hash": "81142a0170a90b59"
+  },
+  "@@CONTACT_b2fbc847e915@@": {
+    "type": "contact",
+    "original": "v.sharin@double.global",
+    "hash": "d29482fee7a152ad"
+  },
+  "@@URL_a8feb8a5157d@@": {
+    "type": "url",
+    "original": "https://t.me/oleg_reznichenko_crm_mb_vip",
+    "hash": "99d7a14cea5e7bcb"
+  },
+  "@@URL_f53b71789a67@@": {
+    "type": "url",
+    "original": "https://t.me/aleksandr_ivanyuk_MB_CRM",
+    "hash": "3dbc1232088352de"
+  },
+  "@@URL_55639bec5b88@@": {
+    "type": "url",
+    "original": "https://t.me/alexandra_lachtikova_CRM_VIP",
+    "hash": "fc1ac03a6b6db79e"
+  },
+  "@@URL_b2d76369e113@@": {
+    "type": "url",
+    "original": "https://t.me/cathy_mkhn",
+    "hash": "fd1b8036a77b4775"
+  },
+  "@@URL_022de91029ac@@": {
+    "type": "url",
+    "original": "https://t.me/stewfc",
+    "hash": "9a4bf6815a608d66"
+  },
+  "@@URL_faeb4d9c307e@@": {
+    "type": "url",
+    "original": "https://t.me/genagorin167",
+    "hash": "f022c2f0044a7bfd"
+  },
+  "@@URL_a3c58a6cce70@@": {
+    "type": "url",
+    "original": "https://t.me/sofia_mostbet",
+    "hash": "22d99e5e4f1f7d1d"
+  },
+  "@@URL_5d9392c2a6e2@@": {
+    "type": "url",
+    "original": "https://t.me/AnastasiiaKhani",
+    "hash": "76f7e48148fd621e"
+  },
+  "@@URL_806571ad4b03@@": {
+    "type": "url",
+    "original": "https://t.me/vadimsharin",
+    "hash": "8928e96b7e7398e9"
+  },
+  "@@CONTACT_66d9595b73cc@@": {
+    "type": "contact",
+    "original": "v.sharin@double.global",
+    "hash": "d29482fee7a152ad"
+  },
+  "@@CONTACT_1893af82622f@@": {
+    "type": "contact",
+    "original": "a.vedischeva@double.global",
+    "hash": "bff629d80eed0466"
+  },
+  "@@CONTACT_42a4c57b47ee@@": {
+    "type": "contact",
+    "original": "a.karamyan@double.global",
+    "hash": "eb0e9e1a2b41b296"
+  },
+  "@@CONTACT_53ae0f3ddebc@@": {
+    "type": "contact",
+    "original": "a.stenkin@double.global",
+    "hash": "290fa808a98af701"
+  },
+  "@@CONTACT_b3298d263606@@": {
+    "type": "contact",
+    "original": "s.makarova@double.global",
+    "hash": "f589eab35758b6dc"
+  },
+  "@@CONTACT_fc05c9b57d37@@": {
+    "type": "contact",
+    "original": "t.kabysh@double.global",
+    "hash": "aa5cd86bd91c3270"
+  },
+  "@@CONTACT_7fc33eaa97cc@@": {
+    "type": "contact",
+    "original": "o.kamenschikova@double.global",
+    "hash": "4fb7cccfe69fadb5"
+  },
+  "@@CONTACT_feb926251ec5@@": {
+    "type": "contact",
+    "original": "i.koldaev@double.global",
+    "hash": "b4387a47d2ea11a9"
+  },
+  "@@URL_20ad87ecbfaf@@": {
+    "type": "url",
+    "original": "https://t.me/vadimsharin",
+    "hash": "8928e96b7e7398e9"
+  },
+  "@@URL_5e2adf9fc2da@@": {
+    "type": "url",
+    "original": "https://t.me/etoannakes",
+    "hash": "4d39f7659b7282a7"
+  },
+  "@@URL_f917d812803f@@": {
+    "type": "url",
+    "original": "https://t.me/Anush_FR",
+    "hash": "3dee863161e22d19"
+  },
+  "@@URL_b6557a979bf0@@": {
+    "type": "url",
+    "original": "https://t.me/alexandrstenkin",
+    "hash": "6eb336362155e58a"
+  },
+  "@@URL_d421fda4c6bb@@": {
+    "type": "url",
+    "original": "https://t.me/sophie_mv",
+    "hash": "87c89480cb832343"
+  },
+  "@@URL_22ccbf1da350@@": {
+    "type": "url",
+    "original": "https://t.me/timurr_mb",
+    "hash": "d368104578c237a4"
+  },
+  "@@URL_8c90c758ea28@@": {
+    "type": "url",
+    "original": "https://t.me/olga_kamenshchikova_po",
+    "hash": "caf92e724c91262f"
+  },
+  "@@URL_5b7b8d869d1f@@": {
+    "type": "url",
+    "original": "https://t.me/mrcorex",
+    "hash": "3c8bc5ff5e74ebc3"
+  },
+  "@@CONTACT_a48b0026f5fe@@": {
+    "type": "contact",
+    "original": "i.koldaev@double.global",
+    "hash": "b4387a47d2ea11a9"
+  },
+  "@@CONTACT_c41c1cd33938@@": {
+    "type": "contact",
+    "original": "d.nechaev@double.global",
+    "hash": "c63c895f7a556e79"
+  },
+  "@@CONTACT_6e7bb0fd415e@@": {
+    "type": "contact",
+    "original": "y.golovko@double.global",
+    "hash": "b74f1abbfc20cc6e"
+  },
+  "@@CONTACT_c70bda71e752@@": {
+    "type": "contact",
+    "original": "i.gladkov@adviva.com",
+    "hash": "065866cca8bc3bea"
+  },
+  "@@CONTACT_faa4fd1ccbab@@": {
+    "type": "contact",
+    "original": "m.fedotova@adviva.com",
+    "hash": "bd8110755d50025b"
+  },
+  "@@CONTACT_0ce92b600a6a@@": {
+    "type": "contact",
+    "original": "m.masharova@adviva.com",
+    "hash": "0b794eba1333005c"
+  },
+  "@@CONTACT_58c8906d75e1@@": {
+    "type": "contact",
+    "original": "pavlo@adviva.com",
+    "hash": "85238c55ce35bb0e"
+  },
+  "@@CONTACT_a03b06b9b816@@": {
+    "type": "contact",
+    "original": "m.markovskaya@double.global",
+    "hash": "820da897bf49c5a4"
+  },
+  "@@PROJECT_1ef36861e639@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@URL_7b6253ac9092@@": {
+    "type": "url",
+    "original": "https://t.me/mrcorex",
+    "hash": "3c8bc5ff5e74ebc3"
+  },
+  "@@URL_91ffeffcbcb7@@": {
+    "type": "url",
+    "original": "https://t.me/dmitrnechaev",
+    "hash": "bbce293420b8ea29"
+  },
+  "@@URL_80fa58365460@@": {
+    "type": "url",
+    "original": "https://t.me/AArocket",
+    "hash": "91c3fcecf7ae2dde"
+  },
+  "@@URL_99c771fbfd89@@": {
+    "type": "url",
+    "original": "https://t.me/igor2811",
+    "hash": "109af7168b56049e"
+  },
+  "@@URL_28111c8cfaca@@": {
+    "type": "url",
+    "original": "https://t.me/m_fedot",
+    "hash": "28b132676a45c21f"
+  },
+  "@@URL_a95ce6d28214@@": {
+    "type": "url",
+    "original": "https://t.me/Andrey_Anisimov_Antifraud",
+    "hash": "d7bae00682764d64"
+  },
+  "@@URL_a5ee379a1890@@": {
+    "type": "url",
+    "original": "https://t.me/KroshkaMishka",
+    "hash": "95915b9d5d2cd53b"
+  },
+  "@@URL_dcaaa99e66c0@@": {
+    "type": "url",
+    "original": "https://t.me/p_v_22",
+    "hash": "3a8e7638f829afba"
+  },
+  "@@URL_4a93b575d1a2@@": {
+    "type": "url",
+    "original": "https://t.me/mmost_22",
+    "hash": "da2857bbe00d69d6"
+  },
+  "@@CONTACT_06215b9c4411@@": {
+    "type": "contact",
+    "original": "m.markovskaya@double.global",
+    "hash": "820da897bf49c5a4"
+  },
+  "@@CONTACT_ab320aac35e3@@": {
+    "type": "contact",
+    "original": "a.skokov@douuble.global",
+    "hash": "e0d1d41c634c6bea"
+  },
+  "@@CONTACT_8fe654760961@@": {
+    "type": "contact",
+    "original": "g.pochtarev@double.global",
+    "hash": "7da41895741cb571"
+  },
+  "@@URL_63f8683a7317@@": {
+    "type": "url",
+    "original": "https://t.me/mmost_22",
+    "hash": "da2857bbe00d69d6"
+  },
+  "@@URL_ab5ae5bdc605@@": {
+    "type": "url",
+    "original": "https://t.me/alsko8",
+    "hash": "2bab15c12f5d328d"
+  },
+  "@@CONTACT_baaeee7c89b8@@": {
+    "type": "contact",
+    "original": "8533025 6624",
+    "hash": "3ee2d9f8ac5ce115"
+  },
+  "@@CONTACT_8096c721f96d@@": {
+    "type": "contact",
+    "original": "8771 7178054",
+    "hash": "ec8c61639c2cc7f4"
+  },
+  "@@NAME_5b0d8069b4e0@@": {
+    "type": "name",
+    "original": "Юлия Пекина",
+    "hash": "18257eb11e3e445f"
+  },
+  "@@NAME_78b902306caf@@": {
+    "type": "name",
+    "original": "Божена Бовыкина",
+    "hash": "da4905890eab7b46"
+  },
+  "@@NAME_66449adb5f5c@@": {
+    "type": "name",
+    "original": "Валерий Попандопуло",
+    "hash": "8d2866b515fab7a0"
+  },
+  "@@NAME_1c4d3d4ebf5d@@": {
+    "type": "name",
+    "original": "Максим Рощина",
+    "hash": "fc91fe5f68734007"
+  },
+  "@@NAME_040ffd065a69@@": {
+    "type": "name",
+    "original": "Никита Шептухин",
+    "hash": "3a4a86c0dd49893e"
+  },
+  "@@NAME_b9393170f9bb@@": {
+    "type": "name",
+    "original": "Евгения Березовская",
+    "hash": "8845eccbad8a2b67"
+  },
+  "@@NAME_95604fdd1c52@@": {
+    "type": "name",
+    "original": "Алиев Джавид",
+    "hash": "5defc130593561c8"
+  },
+  "@@NAME_d052b9d0b25f@@": {
+    "type": "name",
+    "original": "Кристина Трифонова",
+    "hash": "ff97d20e2aff1d5b"
+  },
+  "@@NAME_2a89515ff09b@@": {
+    "type": "name",
+    "original": "Евгения Чудинова",
+    "hash": "8b6bcace123051c2"
+  },
+  "@@NAME_4077f58894bd@@": {
+    "type": "name",
+    "original": "Карина Караваева",
+    "hash": "c9f38864ba4d7077"
+  },
+  "@@NAME_78ac689a9360@@": {
+    "type": "name",
+    "original": "Королев Виталий",
+    "hash": "e4bc3b27ce2b2632"
+  },
+  "@@NAME_6f944971ba6a@@": {
+    "type": "name",
+    "original": "Алибаева Айпери",
+    "hash": "348706baf8677c7c"
+  },
+  "@@NAME_0598907229ae@@": {
+    "type": "name",
+    "original": "Машугина Маргарита",
+    "hash": "b0e6652475245f8a"
+  },
+  "@@NAME_b06346273126@@": {
+    "type": "name",
+    "original": "Николай Филатов",
+    "hash": "9a980ac38c1992af"
+  },
+  "@@NAME_12796460f762@@": {
+    "type": "name",
+    "original": "Марина Варсонофьева",
+    "hash": "48716bd085c502f1"
+  },
+  "@@NAME_e26352e354ab@@": {
+    "type": "name",
+    "original": "Екатерина Байко",
+    "hash": "b1495a932e9f7d2a"
+  },
+  "@@NAME_b8cea369811f@@": {
+    "type": "name",
+    "original": "Анна Ефремова",
+    "hash": "24c57c2a429adecd"
+  },
+  "@@NAME_811bcfc87383@@": {
+    "type": "name",
+    "original": "Дмитрий Заривной",
+    "hash": "c28d41c7ff531032"
+  },
+  "@@PROJECT_d1742d3ccbb2@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@NAME_573467d73244@@": {
+    "type": "name",
+    "original": "Юлия Пекина",
+    "hash": "18257eb11e3e445f"
+  },
+  "@@NAME_4cfb1b9099e9@@": {
+    "type": "name",
+    "original": "Божена Бовыкина",
+    "hash": "da4905890eab7b46"
+  },
+  "@@NAME_df3c1c7d5a08@@": {
+    "type": "name",
+    "original": "Валерий Попандопуло",
+    "hash": "8d2866b515fab7a0"
+  },
+  "@@NAME_ba4b22b8f888@@": {
+    "type": "name",
+    "original": "Максим Рощина",
+    "hash": "fc91fe5f68734007"
+  },
+  "@@NAME_ab12b3f61d8e@@": {
+    "type": "name",
+    "original": "Никита Шептухин",
+    "hash": "3a4a86c0dd49893e"
+  },
+  "@@NAME_9dd68ca85e64@@": {
+    "type": "name",
+    "original": "Евгения Березовская",
+    "hash": "8845eccbad8a2b67"
+  },
+  "@@NAME_e0f6ab0063a8@@": {
+    "type": "name",
+    "original": "Алиев Джавид",
+    "hash": "5defc130593561c8"
+  },
+  "@@NAME_c82e5451d539@@": {
+    "type": "name",
+    "original": "Кристина Трифонова",
+    "hash": "ff97d20e2aff1d5b"
+  },
+  "@@NAME_4f264a702f4b@@": {
+    "type": "name",
+    "original": "Евгения Чудинова",
+    "hash": "8b6bcace123051c2"
+  },
+  "@@NAME_97b9848ae993@@": {
+    "type": "name",
+    "original": "Карина Караваева",
+    "hash": "c9f38864ba4d7077"
+  },
+  "@@NAME_84f17d648446@@": {
+    "type": "name",
+    "original": "Королев Виталий",
+    "hash": "e4bc3b27ce2b2632"
+  },
+  "@@NAME_38c66f854fcd@@": {
+    "type": "name",
+    "original": "Алибаева Айпери",
+    "hash": "348706baf8677c7c"
+  },
+  "@@NAME_993cd454eac0@@": {
+    "type": "name",
+    "original": "Машугина Маргарита",
+    "hash": "b0e6652475245f8a"
+  },
+  "@@NAME_3e61b5eca1b8@@": {
+    "type": "name",
+    "original": "Николай Филатов",
+    "hash": "9a980ac38c1992af"
+  },
+  "@@NAME_2ae95122e49a@@": {
+    "type": "name",
+    "original": "Марина Варсонофьева",
+    "hash": "48716bd085c502f1"
+  },
+  "@@NAME_f1a5b7690a87@@": {
+    "type": "name",
+    "original": "Екатерина Байко",
+    "hash": "b1495a932e9f7d2a"
+  },
+  "@@PROJECT_491f0b4c38dd@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@NAME_7c85b45de70b@@": {
+    "type": "name",
+    "original": "Екатерина Байко",
+    "hash": "b1495a932e9f7d2a"
+  },
+  "@@NAME_9b3aeed6b105@@": {
+    "type": "name",
+    "original": "Анна Ефремова",
+    "hash": "24c57c2a429adecd"
+  },
+  "@@NAME_fe27990fa187@@": {
+    "type": "name",
+    "original": "Дмитрий Заривной",
+    "hash": "c28d41c7ff531032"
+  },
+  "@@NAME_d847cc7f7a09@@": {
+    "type": "name",
+    "original": "Отдел Промо",
+    "hash": "ef6f0692f787dd31"
+  },
+  "@@NAME_c0ca3d1384d7@@": {
+    "type": "name",
+    "original": "Аксенов Юрий Телеграм",
+    "hash": "d254218943e7ca5c"
+  },
+  "@@NAME_8403309630a6@@": {
+    "type": "name",
+    "original": "Пекина Юлия Телеграм",
+    "hash": "300817723d6fde08"
+  },
+  "@@NAME_929648f9207a@@": {
+    "type": "name",
+    "original": "Рощина Максим Телеграм",
+    "hash": "70a72964f719a5dd"
+  },
+  "@@NAME_5f0fb16f7492@@": {
+    "type": "name",
+    "original": "Нерсесян Нина Телеграм",
+    "hash": "90aad1a092d79990"
+  },
+  "@@NAME_e4a763009f07@@": {
+    "type": "name",
+    "original": "Варсонофьева Телеграм",
+    "hash": "04d3a4c7cb6d760d"
+  },
+  "@@NAME_e9da96eb73a0@@": {
+    "type": "name",
+    "original": "Королев Виталий Телеграм",
+    "hash": "10ef6bafa8c883c9"
+  },
+  "@@NAME_c521332f2765@@": {
+    "type": "name",
+    "original": "Алиев Джавид",
+    "hash": "5defc130593561c8"
+  },
+  "@@PROJECT_e1ff0951a9f6@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@CONTACT_ebe014a99e50@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_d58fa48bb503@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_83f94423c80b@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_23a52d50c066@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_b96aff35b235@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@PROJECT_ba63908f5f8a@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_17b2db688c78@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@NAME_f92fd40ce972@@": {
+    "type": "name",
+    "original": "Аксенов Юрий",
+    "hash": "8c306bbc2e61fa3d"
+  },
+  "@@NAME_df94128936f0@@": {
+    "type": "name",
+    "original": "Пекина Юлия",
+    "hash": "315c38254ca0d2ef"
+  },
+  "@@NAME_2fb359b95aa0@@": {
+    "type": "name",
+    "original": "Рощина Максим",
+    "hash": "e69a595388a30c47"
+  },
+  "@@NAME_87725e036bbc@@": {
+    "type": "name",
+    "original": "Нерсесян Нина",
+    "hash": "3fa93c157ec1bd3f"
+  },
+  "@@NAME_692bc8c7bf5f@@": {
+    "type": "name",
+    "original": "Королев Виталий",
+    "hash": "e4bc3b27ce2b2632"
+  },
+  "@@NAME_ee9fc6b85458@@": {
+    "type": "name",
+    "original": "Алиев Джавид",
+    "hash": "5defc130593561c8"
+  },
+  "@@PROJECT_604e9caa72c4@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@CONTACT_e2c2b4805562@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_84930012d8e1@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_a0bf9dd550cf@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_50b58db41249@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_1d0eef60686b@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_7e70f48140c3@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_34e58c42ee8b@@": {
+    "type": "contact",
+    "original": "m.varsonofeva@double.global",
+    "hash": "7e1966e7bbdff0fb"
+  },
+  "@@CONTACT_797925fa00e0@@": {
+    "type": "contact",
+    "original": "e.bayko@double.global",
+    "hash": "48e603059a6cddd6"
+  },
+  "@@CONTACT_8739ac82f20e@@": {
+    "type": "contact",
+    "original": "a.efremova@double.global",
+    "hash": "853e5b5435a6d551"
+  },
+  "@@CONTACT_ab7a8acca3ed@@": {
+    "type": "contact",
+    "original": "k.trifonova@double.global",
+    "hash": "7dead58507b68fe5"
+  },
+  "@@CONTACT_7a2821f3a016@@": {
+    "type": "contact",
+    "original": "d.zarivnoy@double.global",
+    "hash": "7619e23b42c69cbe"
+  },
+  "@@NAME_f30638900509@@": {
+    "type": "name",
+    "original": "Запуск Промо",
+    "hash": "b9ff4438f8d660ef"
+  },
+  "@@CONTACT_c260b872a9ef@@": {
+    "type": "contact",
+    "original": "y.pekina@double.global",
+    "hash": "49510c9ef32884b0"
+  },
+  "@@CONTACT_2a600acb9b76@@": {
+    "type": "contact",
+    "original": "b.bovykina@double.global",
+    "hash": "f29f03d46ad02136"
+  },
+  "@@CONTACT_47e68bf9061a@@": {
+    "type": "contact",
+    "original": "v.popandopulo@double.global",
+    "hash": "0c721b4145f605d0"
+  },
+  "@@CONTACT_edc80345e34f@@": {
+    "type": "contact",
+    "original": "v.korolev@double.global",
+    "hash": "39b477d59499c5f3"
+  },
+  "@@PROJECT_e344d0d774f5@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_6c9ef7bbba92@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@TOOL_c28c6a2db7e9@@": {
+    "type": "tool",
+    "original": "Promo Calendar",
+    "hash": "266c0660a960f69e"
+  },
+  "@@TOOL_e96192e086a3@@": {
+    "type": "tool",
+    "original": "Promo Calendar",
+    "hash": "266c0660a960f69e"
+  },
+  "@@TOOL_16975a195e4e@@": {
+    "type": "tool",
+    "original": "Promo Calendar",
+    "hash": "266c0660a960f69e"
+  },
+  "@@CONTACT_ef22704ed233@@": {
+    "type": "contact",
+    "original": "m.varsonofeva@double.global",
+    "hash": "7e1966e7bbdff0fb"
+  },
+  "@@CONTACT_a2d3635d4fd4@@": {
+    "type": "contact",
+    "original": "e.bayko@double.global",
+    "hash": "48e603059a6cddd6"
+  },
+  "@@CONTACT_aa7437d3740c@@": {
+    "type": "contact",
+    "original": "a.efremova@double.global",
+    "hash": "853e5b5435a6d551"
+  },
+  "@@CONTACT_2b6187ba8a9a@@": {
+    "type": "contact",
+    "original": "k.trifonova@double.global",
+    "hash": "7dead58507b68fe5"
+  },
+  "@@CONTACT_3540e05013da@@": {
+    "type": "contact",
+    "original": "d.zarivnoy@double.global",
+    "hash": "7619e23b42c69cbe"
+  },
+  "@@CONTACT_b17d2c787f9f@@": {
+    "type": "contact",
+    "original": "y.pekina@double.global",
+    "hash": "49510c9ef32884b0"
+  },
+  "@@CONTACT_52339a830170@@": {
+    "type": "contact",
+    "original": "b.bovykina@double.global",
+    "hash": "f29f03d46ad02136"
+  },
+  "@@CONTACT_803c58f2f5d8@@": {
+    "type": "contact",
+    "original": "v.popandopulo@double.global",
+    "hash": "0c721b4145f605d0"
+  },
+  "@@CONTACT_eba6897d90b1@@": {
+    "type": "contact",
+    "original": "v.korolev@double.global",
+    "hash": "39b477d59499c5f3"
+  },
+  "@@CONTACT_dafde399ccd1@@": {
+    "type": "contact",
+    "original": "m.mashugina@double.global",
+    "hash": "d91fd2f79165a74f"
+  },
+  "@@CONTACT_44c1865adc96@@": {
+    "type": "contact",
+    "original": "n.filatov@double.global",
+    "hash": "f855214a2ed27ede"
+  },
+  "@@CONTACT_1ae0639aa5fc@@": {
+    "type": "contact",
+    "original": "l.kasymova@double.global",
+    "hash": "008f34572d2579d2"
+  },
+  "@@CONTACT_cca7a5b114cd@@": {
+    "type": "contact",
+    "original": "k.volkova@double.global",
+    "hash": "b1a3593417044ff9"
+  },
+  "@@CONTACT_bef12d95f151@@": {
+    "type": "contact",
+    "original": "n.nersesyan@double.global",
+    "hash": "fb3fc49b209b2b4c"
+  },
+  "@@CONTACT_67acac7bef46@@": {
+    "type": "contact",
+    "original": "i.kiryakov@double.global",
+    "hash": "825eb4ffa0354446"
+  },
+  "@@NAME_31f3de707e2f@@": {
+    "type": "name",
+    "original": "График Отпусков\nФормы",
+    "hash": "81a71b5069d3373a"
+  },
+  "@@NAME_d89209a5b502@@": {
+    "type": "name",
+    "original": "Дизайн Система Отпуск",
+    "hash": "21c214d34df6f489"
+  },
+  "@@NAME_8729c74f8fe2@@": {
+    "type": "name",
+    "original": "Дерево Метрик\nМатрицы",
+    "hash": "d8140f4fb2dc7264"
+  },
+  "@@CONTACT_8d2e8ee764ed@@": {
+    "type": "contact",
+    "original": "m.mashugina@double.global",
+    "hash": "d91fd2f79165a74f"
+  },
+  "@@CONTACT_17472f1ad34a@@": {
+    "type": "contact",
+    "original": "n.filatov@double.global",
+    "hash": "f855214a2ed27ede"
+  },
+  "@@CONTACT_351c08d9cd1e@@": {
+    "type": "contact",
+    "original": "l.kasymova@double.global",
+    "hash": "008f34572d2579d2"
+  },
+  "@@CONTACT_8c3841ec3fa3@@": {
+    "type": "contact",
+    "original": "k.volkova@double.global",
+    "hash": "b1a3593417044ff9"
+  },
+  "@@CONTACT_b190738150ea@@": {
+    "type": "contact",
+    "original": "n.nersesyan@double.global",
+    "hash": "fb3fc49b209b2b4c"
+  },
+  "@@CONTACT_a77b33e96c0d@@": {
+    "type": "contact",
+    "original": "i.kiryakov@double.global",
+    "hash": "825eb4ffa0354446"
+  },
+  "@@CONTACT_486b8d315db3@@": {
+    "type": "contact",
+    "original": "PaymentsCahier@double.global",
+    "hash": "21b64b3de767e3dc"
+  },
+  "@@NAME_eb090aa98de0@@": {
+    "type": "name",
+    "original": "Асане Инфо",
+    "hash": "6e8cf7d732cc8ed1"
+  },
+  "@@PROJECT_77a25b16012b@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_4b8e56e08755@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@PROJECT_f77bf86973bc@@": {
+    "type": "project",
+    "original": "MM",
+    "hash": "839f5a01576e1ebc"
+  },
+  "@@TOOL_cbeed07a04ec@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@TOOL_db1150873f0d@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_5b2bcd1f071d@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@URL_29688c2d5a09@@": {
+    "type": "url",
+    "original": "https://form.asana",
+    "hash": "09ebe29aa7670a1f"
+  },
+  "@@DATE_933587f19579@@": {
+    "type": "date",
+    "original": "25.11.2024",
+    "hash": "7af85c41562fc879"
+  },
+  "@@DATE_d954ae30dbc7@@": {
+    "type": "date",
+    "original": "25.11.2024",
+    "hash": "7af85c41562fc879"
+  },
+  "@@NAME_69539f93e04c@@": {
+    "type": "name",
+    "original": "Продуктовая Аналитика",
+    "hash": "b85ed82be814519e"
+  },
+  "@@PROJECT_5329b31ec5bd@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_e5bbf8e9f2f6@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@NAME_f6b3df7066bd@@": {
+    "type": "name",
+    "original": "Партнерской Программе",
+    "hash": "44aa607b23943b79"
+  },
+  "@@NAME_9368f7f24a62@@": {
+    "type": "name",
+    "original": "Процесс Промо",
+    "hash": "d1944b513a3e9a15"
+  },
+  "@@TOOL_e62dee329091@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_019f308eda0d@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@TOOL_3234bc965734@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_142572de9f3e@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_2e08f69638d1@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_d0f623a8dc81@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@PROJECT_fb99aff4bb51@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@NAME_e399618af644@@": {
+    "type": "name",
+    "original": "Доработка Брифа",
+    "hash": "5b26175b88a98561"
+  },
+  "@@NAME_0755dbc6ec9b@@": {
+    "type": "name",
+    "original": "Доработка Брифа",
+    "hash": "5b26175b88a98561"
+  },
+  "@@NAME_93a9a1cd81fe@@": {
+    "type": "name",
+    "original": "Доработка Брифа",
+    "hash": "5b26175b88a98561"
+  },
+  "@@TOOL_4d280f9e756a@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_1e78579b2d74@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@TOOL_0f9f3011f968@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@TOOL_f9bb19355486@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@NAME_f5ba6f2b1ef4@@": {
+    "type": "name",
+    "original": "Менеджеры Мостпартнер",
+    "hash": "009de93227d88aeb"
+  },
+  "@@NAME_123dcd961460@@": {
+    "type": "name",
+    "original": "Струкова Анастасия",
+    "hash": "9d5b68c25872b6d3"
+  },
+  "@@NAME_02b9a011f090@@": {
+    "type": "name",
+    "original": "Гладков Игорь",
+    "hash": "3f6d45ab5c3d2f9e"
+  },
+  "@@NAME_f56de789e1da@@": {
+    "type": "name",
+    "original": "Андрич Анна",
+    "hash": "8ff2739f7b4f08a1"
+  },
+  "@@NAME_e279efcba45b@@": {
+    "type": "name",
+    "original": "Михасишина Марина",
+    "hash": "3c244d2f1318a016"
+  },
+  "@@NAME_86dbd0bfe8a0@@": {
+    "type": "name",
+    "original": "Кизименко Иван",
+    "hash": "a12f8fb2bd0cfe29"
+  },
+  "@@TOOL_b33fa46d9d15@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@NAME_bdad45dbea6c@@": {
+    "type": "name",
+    "original": "Кизименко Иван",
+    "hash": "a12f8fb2bd0cfe29"
+  },
+  "@@NAME_33e9c91eeea8@@": {
+    "type": "name",
+    "original": "Сабанова Полина",
+    "hash": "55825fcd4063e1b8"
+  },
+  "@@NAME_2f17eef4c31c@@": {
+    "type": "name",
+    "original": "Доработка Бриф",
+    "hash": "59117d0c433a5aac"
+  },
+  "@@NAME_34743aca2a9b@@": {
+    "type": "name",
+    "original": "Механики Промо\nНа",
+    "hash": "811121be9dfec12d"
+  },
+  "@@NAME_388c2996e7f1@@": {
+    "type": "name",
+    "original": "Целевое Механика Условия",
+    "hash": "b3bfea776f0268e7"
+  },
+  "@@NAME_cf01810e71a8@@": {
+    "type": "name",
+    "original": "Купон Задается",
+    "hash": "3ccce4896ca88b99"
+  },
+  "@@NAME_4daf4f83b00d@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_1b2469e54b30@@": {
+    "type": "name",
+    "original": "Бонус Мин",
+    "hash": "2cb614376836c6b0"
+  },
+  "@@NAME_c7a537adc2e6@@": {
+    "type": "name",
+    "original": "Депозит Срабатывает",
+    "hash": "b2638c100c2f3e26"
+  },
+  "@@NAME_f5c338515212@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_7eea8fc6ed52@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_a02b7cab801a@@": {
+    "type": "name",
+    "original": "По За",
+    "hash": "4ca6094cfcc8857c"
+  },
+  "@@NAME_76001e8494b1@@": {
+    "type": "name",
+    "original": "По Бонус",
+    "hash": "43391d365eee4465"
+  },
+  "@@NAME_e8a93ba96f27@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_124a47b9491e@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_ddd45c8514e2@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_6a85a55b32b3@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_bb97fbc323a5@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_ce0ed7a907ef@@": {
+    "type": "name",
+    "original": "Чемпионат Мира",
+    "hash": "13c81a2bd0173be1"
+  },
+  "@@AMOUNT_9bf2d45b042a@@": {
+    "type": "amount",
+    "original": "5 EUR",
+    "hash": "684aa878cc76b3b1"
+  },
+  "@@NAME_e5474db67df3@@": {
+    "type": "name",
+    "original": "Спортивный Турнир Уимблдон",
+    "hash": "5ef3a1a97cfb4f7b"
+  },
+  "@@NAME_7dff94a8b305@@": {
+    "type": "name",
+    "original": "Целевое Механика Условия",
+    "hash": "b3bfea776f0268e7"
+  },
+  "@@NAME_15ecf7061926@@": {
+    "type": "name",
+    "original": "Депозит Бонус",
+    "hash": "b1ec26f8a0413c80"
+  },
+  "@@NAME_59af4e87b859@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_c79018c13390@@": {
+    "type": "name",
+    "original": "Лотерея По",
+    "hash": "aaa8f3482c82e87d"
+  },
+  "@@NAME_714bdaa7849c@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@URL_b69e8a4b10ea@@": {
+    "type": "url",
+    "original": "https://mostbet.com/promo/tournaments/wimbledon_2024_promo",
+    "hash": "61e56aced3d762b8"
+  },
+  "@@AMOUNT_6f87e73558d8@@": {
+    "type": "amount",
+    "original": "5000 EUR",
+    "hash": "6ca6c51b1d15a5a1"
+  },
+  "@@NAME_20080e62b882@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_2916dd756657@@": {
+    "type": "name",
+    "original": "Ставка Бонус",
+    "hash": "25934dae48a4894c"
+  },
+  "@@NAME_ceb585d29ab3@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_dc9c46f83e4e@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_7bfa0e19baab@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_343e27d145f3@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_7c52eb24d4d0@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_89b2be41be63@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_b0e26752ec74@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_f835a89c62c0@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_71b500a7dffb@@": {
+    "type": "name",
+    "original": "Каждую Среду",
+    "hash": "91a3c2ac25bdd028"
+  },
+  "@@NAME_6faa964c238a@@": {
+    "type": "name",
+    "original": "Бонус Среда",
+    "hash": "4ac84638f7b70e09"
+  },
+  "@@NAME_f7552c538939@@": {
+    "type": "name",
+    "original": "Бонус Воскр",
+    "hash": "700f18fe2f6da77b"
+  },
+  "@@AMOUNT_2ab02b8d95b6@@": {
+    "type": "amount",
+    "original": "2 EUR",
+    "hash": "aa47c1166ba717d3"
+  },
+  "@@NAME_a1371d67ae80@@": {
+    "type": "name",
+    "original": "Прайз Пулл",
+    "hash": "c5c85a0cf8e87995"
+  },
+  "@@AMOUNT_88fe669992a3@@": {
+    "type": "amount",
+    "original": "10000 EUR",
+    "hash": "9c2662d7232ef3b6"
+  },
+  "@@AMOUNT_d7a02a4e4004@@": {
+    "type": "amount",
+    "original": "250 EUR",
+    "hash": "ff30869becccb7f6"
+  },
+  "@@AMOUNT_56bba51a5ca2@@": {
+    "type": "amount",
+    "original": "200 EUR",
+    "hash": "ab7b3d770d41fb4f"
+  },
+  "@@AMOUNT_a72a518592f7@@": {
+    "type": "amount",
+    "original": "175 EUR",
+    "hash": "1c91a78180700fa2"
+  },
+  "@@AMOUNT_50ecb01d219b@@": {
+    "type": "amount",
+    "original": "125 EUR",
+    "hash": "d8fde73a8909766d"
+  },
+  "@@AMOUNT_d5d1f0435fda@@": {
+    "type": "amount",
+    "original": "75 EUR",
+    "hash": "68a56d3755bc84f1"
+  },
+  "@@AMOUNT_a70d419bb02e@@": {
+    "type": "amount",
+    "original": "25 EUR",
+    "hash": "27c3c0623a93a5d5"
+  },
+  "@@NAME_1d0ceeca8247@@": {
+    "type": "name",
+    "original": "Новый Год",
+    "hash": "5ec58c58fbcf89e5"
+  },
+  "@@NAME_8c29a9bdbc10@@": {
+    "type": "name",
+    "original": "Адвент Календарь",
+    "hash": "34c89068e209d006"
+  },
+  "@@URL_c7a9945cd03d@@": {
+    "type": "url",
+    "original": "https://mostbet.com/casino/tournaments/tournament_with_mathira",
+    "hash": "849e3a89c0f404d2"
+  },
+  "@@AMOUNT_214887ed9105@@": {
+    "type": "amount",
+    "original": "1 EUR",
+    "hash": "329f15acc2136d02"
+  },
+  "@@AMOUNT_b4f19c941625@@": {
+    "type": "amount",
+    "original": "50 USD",
+    "hash": "82fb4afade8e808a"
+  },
+  "@@NAME_4afac03733ad@@": {
+    "type": "name",
+    "original": "Турнир Казино",
+    "hash": "ad8e05f51bbbe37d"
+  },
+  "@@URL_4a94e4b501a3@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=dO-pW07RKM_CgV5PNp1MZw&d=1174745116342261",
+    "hash": "e5239b26dce9e846"
+  },
+  "@@URL_4ac871bbf1d8@@": {
+    "type": "url",
+    "original": "https://app.asana.com/0/1207021300313272",
+    "hash": "90e62ed9f1c81626"
+  },
+  "@@CONTACT_bb9d28968216@@": {
+    "type": "contact",
+    "original": "89116296608",
+    "hash": "1652bdff14b942ab"
+  },
+  "@@NAME_83454ef3c560@@": {
+    "type": "name",
+    "original": "Название Механика Условия",
+    "hash": "be2f3c19fd39b42a"
+  },
+  "@@URL_1f8bd86c0bbd@@": {
+    "type": "url",
+    "original": "https://app.asana.com/0/1204609769401023/12075",
+    "hash": "1da8dd54dc128f0f"
+  },
+  "@@NAME_8d49c5408fe5@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_5237b96e20e2@@": {
+    "type": "name",
+    "original": "Бонус Есть",
+    "hash": "dd9735356e13a6f9"
+  },
+  "@@NAME_352c4c6e604d@@": {
+    "type": "name",
+    "original": "Бонус Один",
+    "hash": "0d68fdc5d1932983"
+  },
+  "@@NAME_c1079aec0058@@": {
+    "type": "name",
+    "original": "Ваучер Активация Получение",
+    "hash": "5e371e42dd565990"
+  },
+  "@@NAME_aa5e79f7bf4c@@": {
+    "type": "name",
+    "original": "Пакет Бонус Реализация",
+    "hash": "c776178282d199a6"
+  },
+  "@@NAME_65a66ec9fb93@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_69dd26afb8b8@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_141e1a3dfa73@@": {
+    "type": "name",
+    "original": "Делает Целевое",
+    "hash": "23833183fa880539"
+  },
+  "@@NAME_2fb16a189b9c@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_7672dfcb005b@@": {
+    "type": "name",
+    "original": "Депозитная Акция",
+    "hash": "ca7bcbeca733a75a"
+  },
+  "@@AMOUNT_eef2cac0eda6@@": {
+    "type": "amount",
+    "original": "50 EUR",
+    "hash": "aee164f0806f80fe"
+  },
+  "@@URL_37b88d9bf3db@@": {
+    "type": "url",
+    "original": "https://mostbet.com/newpromo/mbc_inr_2024",
+    "hash": "c2b029668bcf00c3"
+  },
+  "@@URL_ff0fe7a901c7@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=0DSknHTYjf1cmHosatN3Zg&d=1174745116342261",
+    "hash": "26f70078ca1f3156"
+  },
+  "@@URL_4e5a27105e14@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=euQk_kBPhB32-a2USdejpg&d=1174745116342261",
+    "hash": "a7557e122ab31963"
+  },
+  "@@NAME_79f082913ac6@@": {
+    "type": "name",
+    "original": "Настраивается Триггерная Кампания",
+    "hash": "61078d5f282c39b7"
+  },
+  "@@NAME_b42e26991bb7@@": {
+    "type": "name",
+    "original": "Название Целевое Механика",
+    "hash": "06f74739a322675a"
+  },
+  "@@NAME_69e644cc99df@@": {
+    "type": "name",
+    "original": "Условия Награда Пример",
+    "hash": "b3cb1ceda21ee553"
+  },
+  "@@NAME_7d463a7a1891@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_a6cf96ada51b@@": {
+    "type": "name",
+    "original": "Счастливый Депозит Делай",
+    "hash": "20d70c9d582e8f53"
+  },
+  "@@NAME_4317b31a4d39@@": {
+    "type": "name",
+    "original": "Физические Гелика",
+    "hash": "60407f2baff9bb2a"
+  },
+  "@@NAME_6d0fe241519f@@": {
+    "type": "name",
+    "original": "Старая Фриспины",
+    "hash": "3fdef40251556174"
+  },
+  "@@NAME_b050a66bb32c@@": {
+    "type": "name",
+    "original": "Счастливый Клиент",
+    "hash": "66725c64269e9409"
+  },
+  "@@NAME_523cbcf98ca0@@": {
+    "type": "name",
+    "original": "Физические Фигма\nСтавка",
+    "hash": "9cfd71e612ff3599"
+  },
+  "@@NAME_58fc53f383d5@@": {
+    "type": "name",
+    "original": "Новая Ставка",
+    "hash": "d4ee67ea052c11cd"
+  },
+  "@@NAME_37f1049e1429@@": {
+    "type": "name",
+    "original": "Адвент Каждый",
+    "hash": "0bbd9149ee3ee560"
+  },
+  "@@NAME_3c04ae2b704f@@": {
+    "type": "name",
+    "original": "Календарь Депозит",
+    "hash": "4908b2edf29db02d"
+  },
+  "@@NAME_40bd8f3d716d@@": {
+    "type": "name",
+    "original": "Новый Год",
+    "hash": "5ec58c58fbcf89e5"
+  },
+  "@@NAME_56477a9d52ba@@": {
+    "type": "name",
+    "original": "Ежедневные Каждый",
+    "hash": "21e3f6b92f859607"
+  },
+  "@@NAME_d3c3e606eea4@@": {
+    "type": "name",
+    "original": "Новруз Депозит Внеси",
+    "hash": "e0f1dd7a143184d3"
+  },
+  "@@NAME_7e11cb5de42f@@": {
+    "type": "name",
+    "original": "Новый Год",
+    "hash": "5ec58c58fbcf89e5"
+  },
+  "@@NAME_12cd10ab6c9b@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_ec3cd34e253c@@": {
+    "type": "name",
+    "original": "Механики Промо",
+    "hash": "542b5fd9270099df"
+  },
+  "@@NAME_75273e3d6454@@": {
+    "type": "name",
+    "original": "Контрибуция Игр",
+    "hash": "39b84a6c02023e3b"
+  },
+  "@@AMOUNT_2227fd07f6ff@@": {
+    "type": "amount",
+    "original": "1 EUR",
+    "hash": "329f15acc2136d02"
+  },
+  "@@URL_57eb27c7cb85@@": {
+    "type": "url",
+    "original": "https://confluence.dats.tech/pages/viewpage.action?pageId=736091134",
+    "hash": "cc2ef492243bc899"
+  },
+  "@@URL_671837e3795c@@": {
+    "type": "url",
+    "original": "https://mostbet.com/aviator",
+    "hash": "03903a203e05f434"
+  },
+  "@@AMOUNT_44b31d3a57d3@@": {
+    "type": "amount",
+    "original": "1 EUR",
+    "hash": "329f15acc2136d02"
+  },
+  "@@AMOUNT_19029d31dd08@@": {
+    "type": "amount",
+    "original": "5 EUR",
+    "hash": "684aa878cc76b3b1"
+  },
+  "@@AMOUNT_f3316f718d5a@@": {
+    "type": "amount",
+    "original": "0,05 EUR",
+    "hash": "a2650d18cddf1702"
+  },
+  "@@AMOUNT_0e16da59f8af@@": {
+    "type": "amount",
+    "original": "100 EUR",
+    "hash": "bcb6034fa833b523"
+  },
+  "@@PROJECT_75e4d5fe26f6@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_bb796dc3e1f9@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_8219c45e7e00@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@CONTACT_7f67b00b4d8b@@": {
+    "type": "contact",
+    "original": "@tarkhaeva_aleksandra",
+    "hash": "a2ad9059ce3d4e57"
+  },
+  "@@NAME_462bb3121dda@@": {
+    "type": "name",
+    "original": "Александре Тархаевой",
+    "hash": "918c474206bed56d"
+  },
+  "@@PROJECT_81e4906425f8@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@NAME_92d47fecb7bb@@": {
+    "type": "name",
+    "original": "Бездепозитный Задача",
+    "hash": "0c6eb85ab877fc4b"
+  },
+  "@@PROJECT_627c09c13146@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@PROJECT_796e185cfde7@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@PROJECT_01c160d3c151@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@NAME_45fb4f6457d7@@": {
+    "type": "name",
+    "original": "Количество Позволяет",
+    "hash": "efbbbb46df016e58"
+  },
+  "@@NAME_4c8b7b1aec84@@": {
+    "type": "name",
+    "original": "Калькулятор Калькулятор",
+    "hash": "557793cedf83762f"
+  },
+  "@@NAME_33bd5f4e0c7f@@": {
+    "type": "name",
+    "original": "Каталог Игры",
+    "hash": "5970f1eb0c89968a"
+  },
+  "@@NAME_d9d868a9c7ee@@": {
+    "type": "name",
+    "original": "Каталог Игры",
+    "hash": "5970f1eb0c89968a"
+  },
+  "@@CONTACT_db12e2ca0d7d@@": {
+    "type": "contact",
+    "original": "e.berezovskaya@double.global",
+    "hash": "a3032a63bc7c344a"
+  },
+  "@@CONTACT_8a2cffe58757@@": {
+    "type": "contact",
+    "original": "k.karavaeva@double.global",
+    "hash": "668ba424491f1f12"
+  },
+  "@@CONTACT_d93199c4c2ae@@": {
+    "type": "contact",
+    "original": "k.karavaeva@double.global",
+    "hash": "668ba424491f1f12"
+  },
+  "@@CONTACT_97953392c5a0@@": {
+    "type": "contact",
+    "original": "y.pekina@double.global",
+    "hash": "49510c9ef32884b0"
+  },
+  "@@NAME_c15ebe0773d0@@": {
+    "type": "name",
+    "original": "Пример Запроса",
+    "hash": "e79b853180455be2"
+  },
+  "@@NAME_26230df596de@@": {
+    "type": "name",
+    "original": "Евгения Березовская\nПрава",
+    "hash": "b8ff99bf1e3dc774"
+  },
+  "@@NAME_053f84668f75@@": {
+    "type": "name",
+    "original": "Пример Запроса",
+    "hash": "e79b853180455be2"
+  },
+  "@@NAME_5529217a8c4e@@": {
+    "type": "name",
+    "original": "Караваевой Карины",
+    "hash": "7617f08104ad5a4f"
+  },
+  "@@PROJECT_11814e826db2@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_0f462e88a971@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@TOOL_139328dd5b25@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@NAME_0f5677853cc3@@": {
+    "type": "name",
+    "original": "Заполняем Анкету",
+    "hash": "2459636181cc4946"
+  },
+  "@@TOOL_db0b5d7bfeb3@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@CONTACT_f4c6da28697a@@": {
+    "type": "contact",
+    "original": "e.berezovskaya@double.global",
+    "hash": "a3032a63bc7c344a"
+  },
+  "@@CONTACT_da798fe040b0@@": {
+    "type": "contact",
+    "original": "biaccess@double.global",
+    "hash": "bfa0a09cba06ac38"
+  },
+  "@@NAME_524b1f775d8a@@": {
+    "type": "name",
+    "original": "Анастасие Струковой",
+    "hash": "84a9e3ba3f05f1fc"
+  },
+  "@@NAME_fcc4947b514f@@": {
+    "type": "name",
+    "original": "Евгения Березовская\nПосле",
+    "hash": "884ef981a5c7beec"
+  },
+  "@@URL_df5f31ff9753@@": {
+    "type": "url",
+    "original": "https://t.me/Stacy_bi",
+    "hash": "db8601f20c4597cc"
+  },
+  "@@CONTACT_8ccd3e3245f7@@": {
+    "type": "contact",
+    "original": "e.berezovskaya@double.global",
+    "hash": "a3032a63bc7c344a"
+  },
+  "@@NAME_90f350e07dab@@": {
+    "type": "name",
+    "original": "Админка Проектов",
+    "hash": "076428e4156335fe"
+  },
+  "@@NAME_5d1299b36908@@": {
+    "type": "name",
+    "original": "Евгения Березовская\nПрава",
+    "hash": "b8ff99bf1e3dc774"
+  },
+  "@@PROJECT_60f13eeca52f@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@TOOL_14f3b109731a@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@CONTACT_b79ccc9ce8ca@@": {
+    "type": "contact",
+    "original": "@double.global",
+    "hash": "be882ec6a630cf4d"
+  },
+  "@@TOOL_290f1b150853@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@URL_8d7f24d27de4@@": {
+    "type": "url",
+    "original": "https://confluence.dats.tech/pages/viewpage.action?pageId=796543724",
+    "hash": "b93bfa0a8faf1dd6"
+  },
+  "@@URL_80092651bfab@@": {
+    "type": "url",
+    "original": "https://confluence.dats.tech/pages/viewpage.action?pageId=796541145",
+    "hash": "204809c008d6ce3c"
+  },
+  "@@URL_d66422a54757@@": {
+    "type": "url",
+    "original": "https://confluence.dats.tech/pages/viewpage.action?pageId=780948692",
+    "hash": "5d662537b316b970"
+  },
+  "@@URL_e9a106bbfa35@@": {
+    "type": "url",
+    "original": "https://jira.dats.tech/servicedesk/customer/portal/119",
+    "hash": "8fb4d13a89bda5ec"
+  },
+  "@@DATE_39fd63052663@@": {
+    "type": "date",
+    "original": "19.11.2024",
+    "hash": "5b440adeba56d4d1"
+  },
+  "@@NAME_af354ffdf621@@": {
+    "type": "name",
+    "original": "Павлом Вайсеро",
+    "hash": "be63942cd5774ee2"
+  },
+  "@@TOOL_e2e784735f18@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_d5d4d670f7f7@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_5485ef2327c9@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@NAME_edfbc3894583@@": {
+    "type": "name",
+    "original": "Категория Маржинальность\nКазино",
+    "hash": "be3bbed9cedd9513"
+  },
+  "@@NAME_52865aa9431e@@": {
+    "type": "name",
+    "original": "Бонус Спорта",
+    "hash": "06c7d2d2afc7138a"
+  },
+  "@@CONTACT_1d8d91281e78@@": {
+    "type": "contact",
+    "original": "@m_fedor",
+    "hash": "215ba3b9713feab5"
+  },
+  "@@CONTACT_0a4983e1108d@@": {
+    "type": "contact",
+    "original": "@Petr_AG.",
+    "hash": "ab59d9207aa1d396"
+  },
+  "@@PROJECT_c5cd97710dfc@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@URL_1b137133b89c@@": {
+    "type": "url",
+    "original": "https://jira.dats.tech/servicedesk/customer/portals",
+    "hash": "4f1bb5f236d546d7"
+  },
+  "@@CONTACT_46824e5e927f@@": {
+    "type": "contact",
+    "original": "@xeni_account",
+    "hash": "c216c4761bdb15dc"
+  },
+  "@@NAME_8c93522338ce@@": {
+    "type": "name",
+    "original": "Почтой России",
+    "hash": "b12a4c49259839da"
+  },
+  "@@URL_5373ad832e14@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=btdJA-Nk1IycgKYB0ozIvw&d=1174745116342261.",
+    "hash": "c7b30730b14ea0b5"
+  },
+  "@@CONTACT_e37a2d034c0c@@": {
+    "type": "contact",
+    "original": "@denis_prom0",
+    "hash": "32d30fcc1376fb11"
+  },
+  "@@CONTACT_e8139e199715@@": {
+    "type": "contact",
+    "original": "y.pekina@double.global",
+    "hash": "49510c9ef32884b0"
+  },
+  "@@PROJECT_e4aa71505a62@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_c60996fab5bb@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_cff6f39144bb@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@CONTACT_48eeefd00e48@@": {
+    "type": "contact",
+    "original": "y.pekina@double.global",
+    "hash": "49510c9ef32884b0"
+  },
+  "@@NAME_4c4e19a0bdf2@@": {
+    "type": "name",
+    "original": "Промо Маркетинг",
+    "hash": "31f67c088be4384e"
+  },
+  "@@NAME_c7cdd0cd2073@@": {
+    "type": "name",
+    "original": "Определение Механики",
+    "hash": "24b1c35511c77fb3"
+  },
+  "@@NAME_ad22e8ca8453@@": {
+    "type": "name",
+    "original": "Далее Ответственный",
+    "hash": "bf99954005b1201c"
+  },
+  "@@TOOL_ed5b619edbf7@@": {
+    "type": "tool",
+    "original": "Inbox 360",
+    "hash": "0b2d8f05873df96f"
+  },
+  "@@NAME_0204a7177862@@": {
+    "type": "name",
+    "original": "Отдела Развития",
+    "hash": "c9feb28dac4fc68e"
+  },
+  "@@NAME_d7f7a01d0cb9@@": {
+    "type": "name",
+    "original": "Продакта Маркетинга",
+    "hash": "0afb37c12d38f0fc"
+  },
+  "@@NAME_8a2bbad6356a@@": {
+    "type": "name",
+    "original": "Результат Фазы",
+    "hash": "d774c04fda487f2f"
+  },
+  "@@TOOL_87e28eb7f397@@": {
+    "type": "tool",
+    "original": "Promo Calendar",
+    "hash": "266c0660a960f69e"
+  },
+  "@@NAME_6c963fcea74e@@": {
+    "type": "name",
+    "original": "Продакт Маркетинга",
+    "hash": "930f1710e2d77c07"
+  },
+  "@@NAME_36c51ae05094@@": {
+    "type": "name",
+    "original": "Согласование Брифа",
+    "hash": "9132497fd5613862"
+  },
+  "@@PROJECT_e443d0b80b69@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@NAME_3fbcb48ea5f9@@": {
+    "type": "name",
+    "original": "Согласование Брифа",
+    "hash": "9132497fd5613862"
+  },
+  "@@NAME_1f39d35761c4@@": {
+    "type": "name",
+    "original": "Согласование Брифа",
+    "hash": "9132497fd5613862"
+  },
+  "@@NAME_cf7dcf5232c4@@": {
+    "type": "name",
+    "original": "Также Главная",
+    "hash": "57bcddbbf12f5111"
+  },
+  "@@NAME_609586726c16@@": {
+    "type": "name",
+    "original": "Согласование Акции",
+    "hash": "352349922bd37a4d"
+  },
+  "@@NAME_a1aa59f4ed40@@": {
+    "type": "name",
+    "original": "Если Аналитика",
+    "hash": "8f35d7377746c5b4"
+  },
+  "@@NAME_04f0f29d89f0@@": {
+    "type": "name",
+    "original": "Главной Задачи",
+    "hash": "bc8a345d0f3c1f17"
+  },
+  "@@NAME_de3e86227f3a@@": {
+    "type": "name",
+    "original": "Оценка Рисков Фрода",
+    "hash": "b3b99e95c9c5f905"
+  },
+  "@@NAME_3e7be4262103@@": {
+    "type": "name",
+    "original": "Контента Ответственным",
+    "hash": "d2987db0905e3f1d"
+  },
+  "@@NAME_04e13424141e@@": {
+    "type": "name",
+    "original": "Результат Фазы",
+    "hash": "d774c04fda487f2f"
+  },
+  "@@URL_f0b28a7343ae@@": {
+    "type": "url",
+    "original": "https://ab.lnabew.com",
+    "hash": "e530a06f71939a90"
+  },
+  "@@NAME_a3e5cc4affe3@@": {
+    "type": "name",
+    "original": "На Ответственного",
+    "hash": "4272de98dbf923da"
+  },
+  "@@NAME_b673c59f1e49@@": {
+    "type": "name",
+    "original": "На Продакта",
+    "hash": "b43a4b77110159de"
+  },
+  "@@NAME_a0b28cd50cf2@@": {
+    "type": "name",
+    "original": "Продакта Маркетинга",
+    "hash": "0afb37c12d38f0fc"
+  },
+  "@@NAME_ecc2425820c9@@": {
+    "type": "name",
+    "original": "Егора Попова",
+    "hash": "14975c3be1a67a5f"
+  },
+  "@@TOOL_1fa9e9b13540@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@NAME_876e64ca1af7@@": {
+    "type": "name",
+    "original": "Результат Фазы",
+    "hash": "d774c04fda487f2f"
+  },
+  "@@NAME_221e7a094bff@@": {
+    "type": "name",
+    "original": "Егора Попова",
+    "hash": "14975c3be1a67a5f"
+  },
+  "@@NAME_69767184c117@@": {
+    "type": "name",
+    "original": "Турнира Казино",
+    "hash": "a60d8882cbe2c81a"
+  },
+  "@@AMOUNT_57e4bbeb1af0@@": {
+    "type": "amount",
+    "original": "2500RUB",
+    "hash": "eb4b05c6b002195b"
+  },
+  "@@AMOUNT_f467b151e0f5@@": {
+    "type": "amount",
+    "original": "25EUR",
+    "hash": "7bd759258d6b0c69"
+  },
+  "@@AMOUNT_926c0647b757@@": {
+    "type": "amount",
+    "original": "1 EUR",
+    "hash": "329f15acc2136d02"
+  },
+  "@@AMOUNT_c9fb4907e649@@": {
+    "type": "amount",
+    "original": "10 RUB",
+    "hash": "0df6767f0baa47bb"
+  },
+  "@@AMOUNT_5cc7ad1caeed@@": {
+    "type": "amount",
+    "original": "11000RUB",
+    "hash": "6f3041f9bca0ca95"
+  },
+  "@@AMOUNT_5bee1a2574da@@": {
+    "type": "amount",
+    "original": "100EUR",
+    "hash": "24b20d739e77df0e"
+  },
+  "@@URL_bf1603cbeafb@@": {
+    "type": "url",
+    "original": "https://mostbet.com/casino/tournaments/king_of_fortune25",
+    "hash": "1d000f9108c2efc0"
+  },
+  "@@NAME_204f97ead4c5@@": {
+    "type": "name",
+    "original": "Дизайн Систему\nНе",
+    "hash": "d4a3ec8ada56488f"
+  },
+  "@@NAME_098e776b6299@@": {
+    "type": "name",
+    "original": "Результат Фазы",
+    "hash": "d774c04fda487f2f"
+  },
+  "@@NAME_5766e38f59cf@@": {
+    "type": "name",
+    "original": "Отдел Аналитики",
+    "hash": "27f8d531c26a6229"
+  },
+  "@@NAME_16aff9084a3d@@": {
+    "type": "name",
+    "original": "Результат Фазы",
+    "hash": "d774c04fda487f2f"
+  },
+  "@@NAME_c76f868047c6@@": {
+    "type": "name",
+    "original": "Итогов Акции",
+    "hash": "f9196bbda032e47e"
+  },
+  "@@NAME_81e44d1ed6b8@@": {
+    "type": "name",
+    "original": "Подведение Итогов",
+    "hash": "dd96f56a0dde9b83"
+  },
+  "@@NAME_0793f0482e89@@": {
+    "type": "name",
+    "original": "Результат Фазы",
+    "hash": "d774c04fda487f2f"
+  },
+  "@@NAME_258067c849f9@@": {
+    "type": "name",
+    "original": "Хэдом Направления Промо",
+    "hash": "77ac4357797526a2"
+  },
+  "@@NAME_0b3d54092ba5@@": {
+    "type": "name",
+    "original": "Результат Фазы",
+    "hash": "d774c04fda487f2f"
+  },
+  "@@CONTACT_1d0b31f6461b@@": {
+    "type": "contact",
+    "original": "87419525328",
+    "hash": "4142d2ba552cc0be"
+  },
+  "@@NAME_4b73d110497a@@": {
+    "type": "name",
+    "original": "Для Казино",
+    "hash": "4436e3be03aa00ee"
+  },
+  "@@NAME_d44bd1a7faa1@@": {
+    "type": "name",
+    "original": "Для Спорта",
+    "hash": "a1d5fb75b554a992"
+  },
+  "@@URL_934b0d85edbc@@": {
+    "type": "url",
+    "original": "https://app.asana.com/0/1203134156720967/1203",
+    "hash": "e8f7622fe8d4e5ea"
+  },
+  "@@CONTACT_3398387f6eb9@@": {
+    "type": "contact",
+    "original": "@Petr_AG",
+    "hash": "95960dc19b39c356"
+  },
+  "@@PROJECT_b6936ce6398d@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_a61f87b66905@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@CONTACT_a58a2713b58d@@": {
+    "type": "contact",
+    "original": "@xeni_account.",
+    "hash": "81234c0fab744cb4"
+  },
+  "@@TOOL_1e642381512b@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@TOOL_7ff4072b69ef@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@CONTACT_17273c3e780b@@": {
+    "type": "contact",
+    "original": "@denis_prom0.",
+    "hash": "076a6082f6f5658c"
+  },
+  "@@NAME_fbd991e9d49f@@": {
+    "type": "name",
+    "original": "Почту России",
+    "hash": "c7d6ad247c3c9fed"
+  },
+  "@@NAME_82a85bc5bdcc@@": {
+    "type": "name",
+    "original": "Дата Версия",
+    "hash": "b80e76d2b67c2b75"
+  },
+  "@@NAME_259f68e95621@@": {
+    "type": "name",
+    "original": "Этап Описание",
+    "hash": "0143e87ee08a27b7"
+  },
+  "@@NAME_88a8f92769eb@@": {
+    "type": "name",
+    "original": "Цель Ответственный Ответственное",
+    "hash": "30f929d667a50548"
+  },
+  "@@NAME_cba651848a94@@": {
+    "type": "name",
+    "original": "Годовое Запланировать",
+    "hash": "e54ce57ac9927ab7"
+  },
+  "@@NAME_44e04d0b47f8@@": {
+    "type": "name",
+    "original": "Заполне Подготовка",
+    "hash": "38bd1fc575e07742"
+  },
+  "@@TOOL_4a9579586202@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@DATE_9c5fcb701d88@@": {
+    "type": "date",
+    "original": "11.02.2025",
+    "hash": "229954dafefeed4a"
+  },
+  "@@DATE_f9d57f2fa802@@": {
+    "type": "date",
+    "original": "19.02.2025",
+    "hash": "2b11e9296b739bb5"
+  },
+  "@@NAME_bfcfa76e62ef@@": {
+    "type": "name",
+    "original": "Иниции Постановка",
+    "hash": "d5d265cb922b1466"
+  },
+  "@@NAME_d43cd6e494e2@@": {
+    "type": "name",
+    "original": "Оценка Проверка",
+    "hash": "deec734e77ea34c1"
+  },
+  "@@NAME_988f833db9d1@@": {
+    "type": "name",
+    "original": "Согласо Проведение",
+    "hash": "f839cf2f5ee0d32c"
+  },
+  "@@TOOL_f5e0932fcbfa@@": {
+    "type": "tool",
+    "original": "Inbox 360",
+    "hash": "0b2d8f05873df96f"
+  },
+  "@@DATE_55d24518295c@@": {
+    "type": "date",
+    "original": "11.02.2025",
+    "hash": "229954dafefeed4a"
+  },
+  "@@DATE_c48d6b9abba9@@": {
+    "type": "date",
+    "original": "19.02.2025",
+    "hash": "2b11e9296b739bb5"
+  },
+  "@@TOOL_fe1d9acf2520@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_ca6ef9aed832@@": {
+    "type": "tool",
+    "original": "Inbox 360",
+    "hash": "0b2d8f05873df96f"
+  },
+  "@@NAME_3568198380d4@@": {
+    "type": "name",
+    "original": "Информ Оповешение",
+    "hash": "14e3d30f5c85aea7"
+  },
+  "@@NAME_6024274e94a8@@": {
+    "type": "name",
+    "original": "Исполн Запуск",
+    "hash": "efb180d69097ff50"
+  },
+  "@@NAME_547d5ac6e72a@@": {
+    "type": "name",
+    "original": "Аналити Регулярные",
+    "hash": "32abea333b7af194"
+  },
+  "@@NAME_b01176197901@@": {
+    "type": "name",
+    "original": "Подвед Постаналитика",
+    "hash": "9911ce88ab1cd6e5"
+  },
+  "@@NAME_4f57602236ab@@": {
+    "type": "name",
+    "original": "Лицо Принимающее Решение",
+    "hash": "c53ee936deb19bf1"
+  },
+  "@@NAME_bc59f866e252@@": {
+    "type": "name",
+    "original": "Этап Ожидаемый",
+    "hash": "c4f80f6d026fb20a"
+  },
+  "@@NAME_0b40fb0c1c17@@": {
+    "type": "name",
+    "original": "Дедлайн Ответственный\nОповещение",
+    "hash": "a4c18a05753b7039"
+  },
+  "@@NAME_4a1b10161ad2@@": {
+    "type": "name",
+    "original": "Проверка Лэндинга",
+    "hash": "45bf141eacaa0543"
+  },
+  "@@NAME_445b5f6beb93@@": {
+    "type": "name",
+    "original": "Проверка Лэндинга",
+    "hash": "45bf141eacaa0543"
+  },
+  "@@NAME_a2221aa782bd@@": {
+    "type": "name",
+    "original": "Этап Дэдлайн Ответственный",
+    "hash": "70709bee0e88b90e"
+  },
+  "@@NAME_95b61d08e940@@": {
+    "type": "name",
+    "original": "Описание Ответственный Устранение",
+    "hash": "f57a7ae8026d49cf"
+  },
+  "@@NAME_73dc07a76194@@": {
+    "type": "name",
+    "original": "Название Тип Разработка",
+    "hash": "125a678667483fb8"
+  },
+  "@@NAME_ecff4ae54843@@": {
+    "type": "name",
+    "original": "Дата Дата Доходность",
+    "hash": "3a3b025f6f030a83"
+  },
+  "@@NAME_8e179fff58b9@@": {
+    "type": "name",
+    "original": "Преданалитика Участники",
+    "hash": "1065a6ce59f7fb01"
+  },
+  "@@NAME_24b985a83ef1@@": {
+    "type": "name",
+    "original": "Неделя Загрузка Баннер",
+    "hash": "8c8c330df40eba5b"
+  },
+  "@@NAME_5ec80dce54c0@@": {
+    "type": "name",
+    "original": "Лендинг Промокод",
+    "hash": "fe5b02c261232532"
+  },
+  "@@NAME_09b37b40b763@@": {
+    "type": "name",
+    "original": "Бонус Креативы Креатив",
+    "hash": "1cc13378d8bd67b9"
+  },
+  "@@NAME_9121ed68b5cf@@": {
+    "type": "name",
+    "original": "Срезы Проблемы Ссылки",
+    "hash": "adfaafc25798b1f9"
+  },
+  "@@NAME_fc20263b5918@@": {
+    "type": "name",
+    "original": "Название Периодичность Темы",
+    "hash": "3b03e8f57e68e773"
+  },
+  "@@NAME_c103210519df@@": {
+    "type": "name",
+    "original": "Участники Фиксация",
+    "hash": "c1ce10fd0d712001"
+  },
+  "@@NAME_6718144cff4d@@": {
+    "type": "name",
+    "original": "Еженедель Каждую",
+    "hash": "c3a5e0be2e383fe9"
+  },
+  "@@NAME_79d728ec01ce@@": {
+    "type": "name",
+    "original": "Период Бюджет",
+    "hash": "3859993fbed9be1c"
+  },
+  "@@AMOUNT_8dc191874b27@@": {
+    "type": "amount",
+    "original": "2025 $",
+    "hash": "2efbc7ae9a537d62"
+  },
+  "@@AMOUNT_83c07fcf10df@@": {
+    "type": "amount",
+    "original": "2025 $",
+    "hash": "2efbc7ae9a537d62"
+  },
+  "@@AMOUNT_425fe64aa29b@@": {
+    "type": "amount",
+    "original": "2025 $",
+    "hash": "2efbc7ae9a537d62"
+  },
+  "@@CONTACT_3dd586849a40@@": {
+    "type": "contact",
+    "original": "8374673\n1905",
+    "hash": "37f34d58333a10f3"
+  },
+  "@@CONTACT_bd5dd9f15e4e@@": {
+    "type": "contact",
+    "original": "8037\n2063971",
+    "hash": "9ab064e961d582a5"
+  },
+  "@@CONTACT_c808e3dd914d@@": {
+    "type": "contact",
+    "original": "8909\n2062955",
+    "hash": "3d187b788950a59f"
+  },
+  "@@CONTACT_a797150b6f45@@": {
+    "type": "contact",
+    "original": "8870579\n2088",
+    "hash": "e18f21e2331e7317"
+  },
+  "@@CONTACT_a5a7a4920fdf@@": {
+    "type": "contact",
+    "original": "8993\n2062950",
+    "hash": "b2c1a48cb8e93774"
+  },
+  "@@CONTACT_9f6ca749c765@@": {
+    "type": "contact",
+    "original": "8912835\n1414",
+    "hash": "aaf27c552d2d39c7"
+  },
+  "@@CONTACT_6fea1c0c29ca@@": {
+    "type": "contact",
+    "original": "8861\n2170528",
+    "hash": "d029fe694f627947"
+  },
+  "@@CONTACT_f4cd6ea09b5d@@": {
+    "type": "contact",
+    "original": "8905\n1780420",
+    "hash": "9ede98ae098cb039"
+  },
+  "@@CONTACT_8fcb1ea2934d@@": {
+    "type": "contact",
+    "original": "g.ryaschenko@double.global",
+    "hash": "b6e7d90582122a62"
+  },
+  "@@CONTACT_78c0f9f0b190@@": {
+    "type": "contact",
+    "original": "i.giniyatov@double.global",
+    "hash": "a29fb526f1ce7be6"
+  },
+  "@@CONTACT_5a73ea095b25@@": {
+    "type": "contact",
+    "original": "ma.popova@double.global",
+    "hash": "1bd20ab64a9994f8"
+  },
+  "@@CONTACT_020b49ec9ef3@@": {
+    "type": "contact",
+    "original": "o.reznichenko@double.global",
+    "hash": "aa5e06c26e7eae7c"
+  },
+  "@@CONTACT_1d690e085562@@": {
+    "type": "contact",
+    "original": "k.mironova@double.global",
+    "hash": "b785c0259667d5dd"
+  },
+  "@@CONTACT_ce55e25a1a5a@@": {
+    "type": "contact",
+    "original": "a.lakhtikova@double.global",
+    "hash": "f3596fe7ed1ef921"
+  },
+  "@@CONTACT_231550bca886@@": {
+    "type": "contact",
+    "original": "y.aksenov@double.global",
+    "hash": "3fe2579b224fa0a3"
+  },
+  "@@CONTACT_42c4f819e36f@@": {
+    "type": "contact",
+    "original": "m.roschina@double.global",
+    "hash": "4090fa2a41bce59e"
+  },
+  "@@URL_3646e0634031@@": {
+    "type": "url",
+    "original": "https://t.me/Gyuzyal_VIP",
+    "hash": "84930fd8dab269e8"
+  },
+  "@@URL_fbe5b4b7b108@@": {
+    "type": "url",
+    "original": "https://t.me/ildarg777",
+    "hash": "3cc87b2e8b4a8e54"
+  },
+  "@@URL_0a54b5d38524@@": {
+    "type": "url",
+    "original": "https://t.me/mpopova1",
+    "hash": "ce79cb6fbebe8733"
+  },
+  "@@URL_a1efd2d7c46b@@": {
+    "type": "url",
+    "original": "https://t.me/oleg_reznichenko_crm_mb_vip",
+    "hash": "99d7a14cea5e7bcb"
+  },
+  "@@URL_891472293360@@": {
+    "type": "url",
+    "original": "https://t.me/k_mironova_crm_vip",
+    "hash": "6e7d29d8ce17aa26"
+  },
+  "@@URL_265865553397@@": {
+    "type": "url",
+    "original": "https://t.me/alexandra_lachtikova_CRM_VIP",
+    "hash": "fc1ac03a6b6db79e"
+  },
+  "@@URL_bc25225f35d9@@": {
+    "type": "url",
+    "original": "https://t.me/tg35795190467",
+    "hash": "b0ae80d32ceb7025"
+  },
+  "@@URL_11bcf9061447@@": {
+    "type": "url",
+    "original": "https://t.me/maksympromo",
+    "hash": "d9a237b2209543bc"
+  },
+  "@@CONTACT_18c2ceb48241@@": {
+    "type": "contact",
+    "original": "e.chudinova@double.global",
+    "hash": "268e2a5f674bff98"
+  },
+  "@@CONTACT_8c05012698bf@@": {
+    "type": "contact",
+    "original": "n.nersesyan@double.global",
+    "hash": "fb3fc49b209b2b4c"
+  },
+  "@@CONTACT_ff8f85a6c1dc@@": {
+    "type": "contact",
+    "original": "a.naumova@double.global",
+    "hash": "f22e65dc0f9691b0"
+  },
+  "@@URL_9685c9803e9a@@": {
+    "type": "url",
+    "original": "https://t.me/Eugenia_VIP_Promo",
+    "hash": "41602a99517715f7"
+  },
+  "@@URL_4f7d692df8f3@@": {
+    "type": "url",
+    "original": "https://t.me/nina_nersesyan_pm",
+    "hash": "fa0b43d319d21fed"
+  },
+  "@@URL_e98ca4e876a4@@": {
+    "type": "url",
+    "original": "https://t.me/anaumovaPM",
+    "hash": "c1e9f137555b3ee2"
+  },
+  "@@CONTACT_40239b3c9853@@": {
+    "type": "contact",
+    "original": "g.ryaschenko@double.global",
+    "hash": "b6e7d90582122a62"
+  },
+  "@@CONTACT_b1c5b242ea43@@": {
+    "type": "contact",
+    "original": "i.giniyatov@double.global",
+    "hash": "a29fb526f1ce7be6"
+  },
+  "@@CONTACT_9964623f6965@@": {
+    "type": "contact",
+    "original": "ma.popova@double.global",
+    "hash": "1bd20ab64a9994f8"
+  },
+  "@@CONTACT_5cea4f9f16ad@@": {
+    "type": "contact",
+    "original": "o.reznichenko@double.global",
+    "hash": "aa5e06c26e7eae7c"
+  },
+  "@@CONTACT_9c8adc2ad8e9@@": {
+    "type": "contact",
+    "original": "k.mironova@double.global",
+    "hash": "b785c0259667d5dd"
+  },
+  "@@CONTACT_1174a26e1c1d@@": {
+    "type": "contact",
+    "original": "a.lakhtikova@double.global",
+    "hash": "f3596fe7ed1ef921"
+  },
+  "@@CONTACT_3bb836a323c4@@": {
+    "type": "contact",
+    "original": "y.aksenov@double.global",
+    "hash": "3fe2579b224fa0a3"
+  },
+  "@@CONTACT_57f34e2cb206@@": {
+    "type": "contact",
+    "original": "m.roschina@double.global",
+    "hash": "4090fa2a41bce59e"
+  },
+  "@@URL_761db3961f6f@@": {
+    "type": "url",
+    "original": "https://t.me/Gyuzyal_VIP",
+    "hash": "84930fd8dab269e8"
+  },
+  "@@URL_2c2417296c8a@@": {
+    "type": "url",
+    "original": "https://t.me/ildarg777",
+    "hash": "3cc87b2e8b4a8e54"
+  },
+  "@@URL_a58bb401a4e7@@": {
+    "type": "url",
+    "original": "https://t.me/mpopova1",
+    "hash": "ce79cb6fbebe8733"
+  },
+  "@@URL_3ac87e1f07f7@@": {
+    "type": "url",
+    "original": "https://t.me/oleg_reznichenko_crm_mb_vip",
+    "hash": "99d7a14cea5e7bcb"
+  },
+  "@@URL_cb37d21a71b4@@": {
+    "type": "url",
+    "original": "https://t.me/k_mironova_crm_vip",
+    "hash": "6e7d29d8ce17aa26"
+  },
+  "@@URL_a3402cf63921@@": {
+    "type": "url",
+    "original": "https://t.me/alexandra_lachtikova_CRM_VIP",
+    "hash": "fc1ac03a6b6db79e"
+  },
+  "@@URL_1664343457cf@@": {
+    "type": "url",
+    "original": "https://t.me/tg35795190467",
+    "hash": "b0ae80d32ceb7025"
+  },
+  "@@URL_11613eef8d6a@@": {
+    "type": "url",
+    "original": "https://t.me/maksympromo",
+    "hash": "d9a237b2209543bc"
+  },
+  "@@CONTACT_2b6a5ac9b7b8@@": {
+    "type": "contact",
+    "original": "m.roschina@double.global",
+    "hash": "4090fa2a41bce59e"
+  },
+  "@@CONTACT_5982eb549bcb@@": {
+    "type": "contact",
+    "original": "e.chudinova@double.global",
+    "hash": "268e2a5f674bff98"
+  },
+  "@@CONTACT_5f4329dcbfb2@@": {
+    "type": "contact",
+    "original": "n.nersesyan@double.global",
+    "hash": "fb3fc49b209b2b4c"
+  },
+  "@@CONTACT_3438d69d8c15@@": {
+    "type": "contact",
+    "original": "a.naumova@double.global",
+    "hash": "f22e65dc0f9691b0"
+  },
+  "@@URL_a61c811138c0@@": {
+    "type": "url",
+    "original": "https://t.me/maksympromo",
+    "hash": "d9a237b2209543bc"
+  },
+  "@@URL_4919377e076c@@": {
+    "type": "url",
+    "original": "https://t.me/Eugenia_VIP_Promo",
+    "hash": "41602a99517715f7"
+  },
+  "@@URL_081b1a5ee76c@@": {
+    "type": "url",
+    "original": "https://t.me/nina_nersesyan_pm",
+    "hash": "fa0b43d319d21fed"
+  },
+  "@@URL_d6c3b4f81e1c@@": {
+    "type": "url",
+    "original": "https://t.me/anaumovaPM",
+    "hash": "c1e9f137555b3ee2"
+  },
+  "@@NAME_1a135ca746b9@@": {
+    "type": "name",
+    "original": "Дня Независимости",
+    "hash": "751c58bd39463989"
+  },
+  "@@PROJECT_31668ee156ee@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@URL_60944ec55aeb@@": {
+    "type": "url",
+    "original": "http://mostbet.com/casino/tournaments/cz_independence_day",
+    "hash": "e58b78cc52f86000"
+  },
+  "@@CONTACT_0fcea3d22893@@": {
+    "type": "contact",
+    "original": "release@double.global",
+    "hash": "a09653d9eb105c83"
+  },
+  "@@NAME_0e8f1bd941b7@@": {
+    "type": "name",
+    "original": "Календарь Подарков",
+    "hash": "846bfc46e19b987e"
+  },
+  "@@NAME_5787654fa3f5@@": {
+    "type": "name",
+    "original": "Адвент Календарь",
+    "hash": "34c89068e209d006"
+  },
+  "@@CONTACT_cdfbc8ab94ae@@": {
+    "type": "contact",
+    "original": "84888818601",
+    "hash": "1411c38eae6de471"
+  },
+  "@@CONTACT_6fdcc7335ab6@@": {
+    "type": "contact",
+    "original": "84897298218",
+    "hash": "2ce0055da60a2f00"
+  },
+  "@@PROJECT_ff0a232e001c@@": {
+    "type": "project",
+    "original": "MB",
+    "hash": "1d09f6fa23235881"
+  },
+  "@@URL_f1be50dda863@@": {
+    "type": "url",
+    "original": "https://docs.google.com/spreadsheets/d",
+    "hash": "f81fddf0e86adf56"
+  },
+  "@@URL_00dcb7a60ebe@@": {
+    "type": "url",
+    "original": "https://www.figma.com/design",
+    "hash": "66ac72db736a19df"
+  },
+  "@@URL_9936aef08daf@@": {
+    "type": "url",
+    "original": "https://app.asana.com/0/1202359403587279/120",
+    "hash": "506dea6bd2a16be9"
+  },
+  "@@URL_bcb140d34aba@@": {
+    "type": "url",
+    "original": "https://app.asana.com/0/1202732640708317/120",
+    "hash": "2bb8da2090597a67"
+  },
+  "@@CONTACT_921f02b36f45@@": {
+    "type": "contact",
+    "original": "@jane_berezovskaya_promo",
+    "hash": "2a18fe287cfbe71f"
+  },
+  "@@NAME_ff06465c360f@@": {
+    "type": "name",
+    "original": "Адвент Календарь",
+    "hash": "34c89068e209d006"
+  },
+  "@@URL_36c464b44a0a@@": {
+    "type": "url",
+    "original": "https://mostbet.com/promo/advent_calendar_2025",
+    "hash": "d8e7caf2bc380f55"
+  },
+  "@@AMOUNT_731e3f40326d@@": {
+    "type": "amount",
+    "original": "400 EUR",
+    "hash": "cdb131de895ee379"
+  },
+  "@@CONTACT_987cc811e901@@": {
+    "type": "contact",
+    "original": "a.khrolenkova@double.global",
+    "hash": "4e02ff81af96f151"
+  },
+  "@@CONTACT_963488f93cef@@": {
+    "type": "contact",
+    "original": "k.schegolev@double.global",
+    "hash": "d1ccebbcd04b2c29"
+  },
+  "@@NAME_60eaa740a3bc@@": {
+    "type": "name",
+    "original": "Команда Должность Стейкхолдер",
+    "hash": "dc8bafb1d7dc3308"
+  },
+  "@@URL_2a1c9e06591a@@": {
+    "type": "url",
+    "original": "https://ntcdl0i.com/newpromo/extra_vip_bonus_2025",
+    "hash": "d208872ee77f6d86"
+  },
+  "@@CONTACT_e7635ee27b51@@": {
+    "type": "contact",
+    "original": "r.belov@double.global",
+    "hash": "0b05157a149f096c"
+  },
+  "@@CONTACT_343735560b3a@@": {
+    "type": "contact",
+    "original": "p.lunkin@double.global",
+    "hash": "5129b1fe0934d1d4"
+  },
+  "@@CONTACT_ba4d5614c928@@": {
+    "type": "contact",
+    "original": "pavlo@adviva.com",
+    "hash": "85238c55ce35bb0e"
+  },
+  "@@CONTACT_7b6b1b7aea67@@": {
+    "type": "contact",
+    "original": "a.khrolenkova@double.global",
+    "hash": "4e02ff81af96f151"
+  },
+  "@@CONTACT_6e2ef5d55e45@@": {
+    "type": "contact",
+    "original": "k.schegolev@double.global",
+    "hash": "d1ccebbcd04b2c29"
+  },
+  "@@CONTACT_4a5f67d75701@@": {
+    "type": "contact",
+    "original": "r.belov@double.global",
+    "hash": "0b05157a149f096c"
+  },
+  "@@CONTACT_322cd8381a2c@@": {
+    "type": "contact",
+    "original": "p.lunkin@double.global",
+    "hash": "5129b1fe0934d1d4"
+  },
+  "@@CONTACT_34d0f854930f@@": {
+    "type": "contact",
+    "original": "pavlo@adviva.com",
+    "hash": "85238c55ce35bb0e"
+  },
+  "@@CONTACT_357e480ae568@@": {
+    "type": "contact",
+    "original": "m.dudnikova@double.global",
+    "hash": "0bb57f95a6814c58"
+  },
+  "@@CONTACT_3abd9cc48fd4@@": {
+    "type": "contact",
+    "original": "a.tarasova@double.global",
+    "hash": "f78f6493a8ff0d79"
+  },
+  "@@CONTACT_fccb7f6577e3@@": {
+    "type": "contact",
+    "original": "a.dorfman@double.global",
+    "hash": "c1fb23d14bb5a271"
+  },
+  "@@CONTACT_b4c3ef3bffab@@": {
+    "type": "contact",
+    "original": "n.kolesnikova@double.global",
+    "hash": "41b54ec75ca91871"
+  },
+  "@@CONTACT_6d843ef3ad3c@@": {
+    "type": "contact",
+    "original": "olga@adviva.com",
+    "hash": "963ffaea8c6e4d35"
+  },
+  "@@CONTACT_c7d831d092f7@@": {
+    "type": "contact",
+    "original": "anastasiya_dev@adviva.com",
+    "hash": "1372fdecec8e0710"
+  },
+  "@@CONTACT_9ba972ce12d0@@": {
+    "type": "contact",
+    "original": "p.shkapkina@double.global",
+    "hash": "56d2704ab2a00ca9"
+  },
+  "@@CONTACT_24bd960daccb@@": {
+    "type": "contact",
+    "original": "v.alba@double.global",
+    "hash": "78bebdfba3b3a0f6"
+  },
+  "@@CONTACT_ad1fa83a39e9@@": {
+    "type": "contact",
+    "original": "i.koldaev@double.global",
+    "hash": "b4387a47d2ea11a9"
+  },
+  "@@CONTACT_583123567c94@@": {
+    "type": "contact",
+    "original": "z.tsyrendorzhiev@double.global",
+    "hash": "ba4938b2f7406728"
+  },
+  "@@CONTACT_76075564a2df@@": {
+    "type": "contact",
+    "original": "n.guseva@double.global",
+    "hash": "9e5196d4e66a9830"
+  },
+  "@@CONTACT_0b65cd7dff7d@@": {
+    "type": "contact",
+    "original": "t.kabysh@double.global",
+    "hash": "aa5cd86bd91c3270"
+  },
+  "@@CONTACT_d94c37942ad4@@": {
+    "type": "contact",
+    "original": "o.kamenschikova@double.global",
+    "hash": "4fb7cccfe69fadb5"
+  },
+  "@@CONTACT_a1b671cb0626@@": {
+    "type": "contact",
+    "original": "s.makarova@double.global",
+    "hash": "f589eab35758b6dc"
+  },
+  "@@CONTACT_50d4c7c46156@@": {
+    "type": "contact",
+    "original": "a.shevchenko@double.global",
+    "hash": "08ff2a7a5315b6dc"
+  },
+  "@@CONTACT_7ee0b67dd784@@": {
+    "type": "contact",
+    "original": "ev.gerasimova@double.global",
+    "hash": "ba9ef4903aafabd1"
+  },
+  "@@CONTACT_9a28193f3136@@": {
+    "type": "contact",
+    "original": "a.bagucharskov@double.global",
+    "hash": "408a2a987968ccbc"
+  },
+  "@@CONTACT_85e74a428105@@": {
+    "type": "contact",
+    "original": "t.smolentseva@double.global",
+    "hash": "a4e87db966ded3ac"
+  },
+  "@@CONTACT_ea18ff431e4b@@": {
+    "type": "contact",
+    "original": "support_mb@mostbet.com",
+    "hash": "c06f8d43f49e4bce"
+  },
+  "@@CONTACT_89e926c4dd15@@": {
+    "type": "contact",
+    "original": "p.gurevich@double.global",
+    "hash": "8cf19669d7a4bb18"
+  },
+  "@@CONTACT_62684ee57600@@": {
+    "type": "contact",
+    "original": "development_dep@double.global",
+    "hash": "4699c554b7493d17"
+  },
+  "@@CONTACT_9dd8afe5784c@@": {
+    "type": "contact",
+    "original": "a.frolov@double.global",
+    "hash": "0849d9d1118fd5c9"
+  },
+  "@@CONTACT_e9c244dc0440@@": {
+    "type": "contact",
+    "original": "a.minchenko@double.global",
+    "hash": "8b4be4d71a924e8b"
+  },
+  "@@NAME_3083f62ac4d2@@": {
+    "type": "name",
+    "original": "Проект Отдел Почта",
+    "hash": "63feb6325121519a"
+  },
+  "@@NAME_260ea94e3cfd@@": {
+    "type": "name",
+    "original": "Информирование Саппорта",
+    "hash": "49b07c31d8c820c0"
+  },
+  "@@NAME_255456a940f2@@": {
+    "type": "name",
+    "original": "Медиабаинг Промоакции",
+    "hash": "366125cbf977fbf4"
+  },
+  "@@PROJECT_bcab3ebaa46c@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_46aba29b35a3@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_1d09a6bab277@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@CONTACT_09ff7a5a892e@@": {
+    "type": "contact",
+    "original": "u.skryt@double.global",
+    "hash": "2995be86fbb8692b"
+  },
+  "@@CONTACT_1239140e9b24@@": {
+    "type": "contact",
+    "original": "d.tikhonov@double.global",
+    "hash": "0d6ca8b3d2c8a615"
+  },
+  "@@CONTACT_4d1d2594a151@@": {
+    "type": "contact",
+    "original": "m.chiranov@double.global",
+    "hash": "03806bec99e53603"
+  },
+  "@@CONTACT_76a6b8b1d37f@@": {
+    "type": "contact",
+    "original": "d.kuzmin@double.global",
+    "hash": "93d9231b7a8fda23"
+  },
+  "@@CONTACT_7ced7c70772a@@": {
+    "type": "contact",
+    "original": "i.gladkov@double.global",
+    "hash": "7776e54c697ddfe1"
+  },
+  "@@CONTACT_79549e20630e@@": {
+    "type": "contact",
+    "original": "a.karimov@double.global",
+    "hash": "1dec0facc07ef49a"
+  },
+  "@@PROJECT_d3e8953a585c@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@CONTACT_19b880dc5c31@@": {
+    "type": "contact",
+    "original": "m.dudnikova@double.global",
+    "hash": "0bb57f95a6814c58"
+  },
+  "@@CONTACT_573cfdfb1e91@@": {
+    "type": "contact",
+    "original": "a.tarasova@double.global",
+    "hash": "f78f6493a8ff0d79"
+  },
+  "@@CONTACT_5297bc0d7c7f@@": {
+    "type": "contact",
+    "original": "a.dorfman@double.global",
+    "hash": "c1fb23d14bb5a271"
+  },
+  "@@CONTACT_b19f018aeefa@@": {
+    "type": "contact",
+    "original": "n.kolesnikova@double.global",
+    "hash": "41b54ec75ca91871"
+  },
+  "@@CONTACT_769310dd16b8@@": {
+    "type": "contact",
+    "original": "olga@adviva.com",
+    "hash": "963ffaea8c6e4d35"
+  },
+  "@@CONTACT_1373e6af2ac7@@": {
+    "type": "contact",
+    "original": "anastasiya_dev@adviva.com",
+    "hash": "1372fdecec8e0710"
+  },
+  "@@CONTACT_8e00481a0b90@@": {
+    "type": "contact",
+    "original": "p.shkapkina@double.global",
+    "hash": "56d2704ab2a00ca9"
+  },
+  "@@CONTACT_3b2246e62e63@@": {
+    "type": "contact",
+    "original": "v.alba@double.global",
+    "hash": "78bebdfba3b3a0f6"
+  },
+  "@@CONTACT_c5e9c83e09fa@@": {
+    "type": "contact",
+    "original": "i.koldaev@double.global",
+    "hash": "b4387a47d2ea11a9"
+  },
+  "@@CONTACT_7fc55bc9966c@@": {
+    "type": "contact",
+    "original": "z.tsyrendorzhiev@double.global",
+    "hash": "ba4938b2f7406728"
+  },
+  "@@CONTACT_a562ebbaad16@@": {
+    "type": "contact",
+    "original": "n.guseva@double.global",
+    "hash": "9e5196d4e66a9830"
+  },
+  "@@CONTACT_49193f095862@@": {
+    "type": "contact",
+    "original": "t.kabysh@double.global",
+    "hash": "aa5cd86bd91c3270"
+  },
+  "@@CONTACT_c8d5883405e5@@": {
+    "type": "contact",
+    "original": "o.kamenschikova@double.global",
+    "hash": "4fb7cccfe69fadb5"
+  },
+  "@@CONTACT_52846eee3d3d@@": {
+    "type": "contact",
+    "original": "s.makarova@double.global",
+    "hash": "f589eab35758b6dc"
+  },
+  "@@CONTACT_2d12ff0f05c9@@": {
+    "type": "contact",
+    "original": "a.shevchenko@double.global",
+    "hash": "08ff2a7a5315b6dc"
+  },
+  "@@CONTACT_6a8aae597df5@@": {
+    "type": "contact",
+    "original": "ev.gerasimova@double.global",
+    "hash": "ba9ef4903aafabd1"
+  },
+  "@@CONTACT_3422b384e075@@": {
+    "type": "contact",
+    "original": "a.bagucharskov@double.global",
+    "hash": "408a2a987968ccbc"
+  },
+  "@@CONTACT_43ad5231f9fe@@": {
+    "type": "contact",
+    "original": "a.bagucharskov@double.global",
+    "hash": "408a2a987968ccbc"
+  },
+  "@@CONTACT_e9ecb78748b2@@": {
+    "type": "contact",
+    "original": "t.smolentseva@double.global",
+    "hash": "a4e87db966ded3ac"
+  },
+  "@@CONTACT_bf289570a633@@": {
+    "type": "contact",
+    "original": "support_mb@mostbet.com",
+    "hash": "c06f8d43f49e4bce"
+  },
+  "@@CONTACT_1e1d02eca093@@": {
+    "type": "contact",
+    "original": "p.gurevich@double.global",
+    "hash": "8cf19669d7a4bb18"
+  },
+  "@@CONTACT_35c54efb536e@@": {
+    "type": "contact",
+    "original": "development_dep@double.global",
+    "hash": "4699c554b7493d17"
+  },
+  "@@CONTACT_c90632fbf332@@": {
+    "type": "contact",
+    "original": "a.frolov@double.global",
+    "hash": "0849d9d1118fd5c9"
+  },
+  "@@CONTACT_dcf4ef2f54f0@@": {
+    "type": "contact",
+    "original": "a.minchenko@double.global",
+    "hash": "8b4be4d71a924e8b"
+  },
+  "@@CONTACT_11b62ab9b038@@": {
+    "type": "contact",
+    "original": "u.skryt@double.global",
+    "hash": "2995be86fbb8692b"
+  },
+  "@@CONTACT_e72ad8a959f0@@": {
+    "type": "contact",
+    "original": "d.tikhonov@double.global",
+    "hash": "0d6ca8b3d2c8a615"
+  },
+  "@@CONTACT_f7351ec78187@@": {
+    "type": "contact",
+    "original": "m.chiranov@double.global",
+    "hash": "03806bec99e53603"
+  },
+  "@@CONTACT_4a6032e55723@@": {
+    "type": "contact",
+    "original": "d.kuzmin@double.global",
+    "hash": "93d9231b7a8fda23"
+  },
+  "@@CONTACT_080bc7aebd36@@": {
+    "type": "contact",
+    "original": "i.gladkov@double.global",
+    "hash": "7776e54c697ddfe1"
+  },
+  "@@CONTACT_8479652c35c3@@": {
+    "type": "contact",
+    "original": "a.karimov@double.global",
+    "hash": "1dec0facc07ef49a"
+  },
+  "@@NAME_73c57c4f9750@@": {
+    "type": "name",
+    "original": "Информирование Саппорта",
+    "hash": "49b07c31d8c820c0"
+  },
+  "@@PROJECT_58933b0db69a@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_e7c8190d525c@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_7a4dfd274f7d@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_cf97a527e946@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@CONTACT_ba345694f6e4@@": {
+    "type": "contact",
+    "original": "mostbetpartners@double.global",
+    "hash": "b5fb83c75fa51c1e"
+  },
+  "@@CONTACT_d5fe1aae43bb@@": {
+    "type": "contact",
+    "original": "office@banzai.partners",
+    "hash": "53931f6206ae3a2e"
+  },
+  "@@CONTACT_79fadbb03c21@@": {
+    "type": "contact",
+    "original": "a.makeykin@leadbit.com",
+    "hash": "6118a47855295480"
+  },
+  "@@CONTACT_294467ae5e49@@": {
+    "type": "contact",
+    "original": "mostbetpartners@double.global",
+    "hash": "b5fb83c75fa51c1e"
+  },
+  "@@CONTACT_9ad090215634@@": {
+    "type": "contact",
+    "original": "andrew@double.global",
+    "hash": "fb6cca40e4cddfa1"
+  },
+  "@@CONTACT_529d7ae5153f@@": {
+    "type": "contact",
+    "original": "betandreas-news@double.global",
+    "hash": "8238a0825b675424"
+  },
+  "@@CONTACT_ea1efe855ea0@@": {
+    "type": "contact",
+    "original": "dephouse-news@double.global",
+    "hash": "5047c5bee8ef0b14"
+  },
+  "@@CONTACT_c937c8ca1347@@": {
+    "type": "contact",
+    "original": "marketing_promo@double.global",
+    "hash": "e78131d47cc573e9"
+  },
+  "@@CONTACT_e0348d9767d2@@": {
+    "type": "contact",
+    "original": "marketing_content@double.global",
+    "hash": "378c4fb65dbb4cd2"
+  },
+  "@@CONTACT_41aa9a4f2483@@": {
+    "type": "contact",
+    "original": "marketing_analytics@double.global",
+    "hash": "8f00911e3e8d4daa"
+  },
+  "@@CONTACT_059dea08f123@@": {
+    "type": "contact",
+    "original": "crm_Mostbet@double.global",
+    "hash": "4c9eeb026715d16e"
+  },
+  "@@CONTACT_50f96195fbbc@@": {
+    "type": "contact",
+    "original": "y.golovko@double.global",
+    "hash": "b74f1abbfc20cc6e"
+  },
+  "@@CONTACT_7a8efc94023d@@": {
+    "type": "contact",
+    "original": "release@double.global",
+    "hash": "a09653d9eb105c83"
+  },
+  "@@CONTACT_c249c2d5bbf8@@": {
+    "type": "contact",
+    "original": "e.marinina@double.global",
+    "hash": "b9fb77cca41b77ce"
+  },
+  "@@CONTACT_e98d142f7702@@": {
+    "type": "contact",
+    "original": "s.denisov@dats.team",
+    "hash": "8e0ed86cdcae1aa3"
+  },
+  "@@NAME_e79f5105ed9f@@": {
+    "type": "name",
+    "original": "Марина Михасишина",
+    "hash": "d98e5e1c249e0e13"
+  },
+  "@@NAME_822e7da02dfc@@": {
+    "type": "name",
+    "original": "Юлия Пекина",
+    "hash": "18257eb11e3e445f"
+  },
+  "@@NAME_5f258d5bc808@@": {
+    "type": "name",
+    "original": "Степан Денисов",
+    "hash": "058db181054332bc"
+  },
+  "@@PROJECT_0e53aad7e8d2@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_9f0a2601c2e5@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_2be3c4ba1e40@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_7b044ca43772@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_07bb7d86093c@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_a68243c4c2ae@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_6e2b77764b52@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_a4cbf0842d7b@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@CONTACT_5c64613e1d8d@@": {
+    "type": "contact",
+    "original": "i.shipkov@dats.team",
+    "hash": "cf2c4d3353a0d243"
+  },
+  "@@NAME_91d094bab31a@@": {
+    "type": "name",
+    "original": "Иван Шипков",
+    "hash": "ed52d6788951cc18"
+  },
+  "@@CONTACT_b8931b867ea6@@": {
+    "type": "contact",
+    "original": "mostbetpartners@double.global",
+    "hash": "b5fb83c75fa51c1e"
+  },
+  "@@CONTACT_a4e34e0e338a@@": {
+    "type": "contact",
+    "original": "office@banzai.partners",
+    "hash": "53931f6206ae3a2e"
+  },
+  "@@CONTACT_f82c68b7dd95@@": {
+    "type": "contact",
+    "original": "a.makeykin@leadbit.com",
+    "hash": "6118a47855295480"
+  },
+  "@@CONTACT_2481ef2c4b6c@@": {
+    "type": "contact",
+    "original": "mostbetpartners@double.global",
+    "hash": "b5fb83c75fa51c1e"
+  },
+  "@@CONTACT_c76ad5f83c29@@": {
+    "type": "contact",
+    "original": "andrew@double.global",
+    "hash": "fb6cca40e4cddfa1"
+  },
+  "@@CONTACT_9d51e6edce4e@@": {
+    "type": "contact",
+    "original": "betandreas-news@double.global",
+    "hash": "8238a0825b675424"
+  },
+  "@@CONTACT_3489387544cb@@": {
+    "type": "contact",
+    "original": "dephouse-news@double.global",
+    "hash": "5047c5bee8ef0b14"
+  },
+  "@@CONTACT_4c2ada6010b8@@": {
+    "type": "contact",
+    "original": "marketing_promo@double.global",
+    "hash": "e78131d47cc573e9"
+  },
+  "@@CONTACT_81e32e3f3b34@@": {
+    "type": "contact",
+    "original": "marketing_content@double.global",
+    "hash": "378c4fb65dbb4cd2"
+  },
+  "@@CONTACT_86b6bb7f9a13@@": {
+    "type": "contact",
+    "original": "marketing_analytics@double.global",
+    "hash": "8f00911e3e8d4daa"
+  },
+  "@@CONTACT_9c9356239198@@": {
+    "type": "contact",
+    "original": "crm_Mostbet@double.global",
+    "hash": "4c9eeb026715d16e"
+  },
+  "@@CONTACT_da2deb10b6fc@@": {
+    "type": "contact",
+    "original": "y.golovko@double.global",
+    "hash": "b74f1abbfc20cc6e"
+  },
+  "@@NAME_64f6a0189b50@@": {
+    "type": "name",
+    "original": "Марина Михасишина",
+    "hash": "d98e5e1c249e0e13"
+  },
+  "@@NAME_f674be7fa28a@@": {
+    "type": "name",
+    "original": "Юлия Пекина",
+    "hash": "18257eb11e3e445f"
+  },
+  "@@PROJECT_a00add7501ce@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_d71a7137641e@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_0357cd1e7958@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_fce003764088@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_49a3d9b46a91@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_bc0a08896904@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@CONTACT_386dddd8efbe@@": {
+    "type": "contact",
+    "original": "release@double.global",
+    "hash": "a09653d9eb105c83"
+  },
+  "@@CONTACT_481005db3ac4@@": {
+    "type": "contact",
+    "original": "e.marinina@double.global",
+    "hash": "b9fb77cca41b77ce"
+  },
+  "@@CONTACT_1892c5a40a02@@": {
+    "type": "contact",
+    "original": "s.denisov@dats.team",
+    "hash": "8e0ed86cdcae1aa3"
+  },
+  "@@CONTACT_00c542ad972e@@": {
+    "type": "contact",
+    "original": "i.shipkov@dats.team",
+    "hash": "cf2c4d3353a0d243"
+  },
+  "@@NAME_ebaaeddf9d10@@": {
+    "type": "name",
+    "original": "Степан Денисов",
+    "hash": "058db181054332bc"
+  },
+  "@@NAME_66b0904a0d2f@@": {
+    "type": "name",
+    "original": "Иван Шипков",
+    "hash": "ed52d6788951cc18"
+  },
+  "@@PROJECT_6e9d69e26965@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@PROJECT_09795d24839d@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@NAME_5fa16230e97a@@": {
+    "type": "name",
+    "original": "Отдел Промо",
+    "hash": "ef6f0692f787dd31"
+  },
+  "@@DATE_52bdf621b8f4@@": {
+    "type": "date",
+    "original": "30.12.2024",
+    "hash": "56a70b5a42c3901c"
+  },
+  "@@DATE_a72350415501@@": {
+    "type": "date",
+    "original": "17.02.2024",
+    "hash": "ee6c30297ffc28d3"
+  },
+  "@@DATE_90453477f72c@@": {
+    "type": "date",
+    "original": "30.12.2024",
+    "hash": "56a70b5a42c3901c"
+  },
+  "@@DATE_c966919f79f0@@": {
+    "type": "date",
+    "original": "17.02.2024",
+    "hash": "ee6c30297ffc28d3"
+  },
+  "@@NAME_9e8737bc8d5e@@": {
+    "type": "name",
+    "original": "Отдел Позиция Имя",
+    "hash": "81dbe5c940e5a08a"
+  },
+  "@@NAME_3796082ecbe9@@": {
+    "type": "name",
+    "original": "Фамилия Телеграм",
+    "hash": "614c48658b848daa"
+  },
+  "@@URL_ad2fec12e203@@": {
+    "type": "url",
+    "original": "https://t.me/warriorhiss",
+    "hash": "519d3a6b2bab1a85"
+  },
+  "@@URL_ca6cc0d00ea5@@": {
+    "type": "url",
+    "original": "https://t.me/javidwork",
+    "hash": "487997dee90d855e"
+  },
+  "@@URL_d47c6d5e6a1b@@": {
+    "type": "url",
+    "original": "https://t.me/Covalya",
+    "hash": "7f4542b3521461d8"
+  },
+  "@@NAME_5cfe7e50526f@@": {
+    "type": "name",
+    "original": "Имя Фамилия",
+    "hash": "c368ab05220715fb"
+  },
+  "@@URL_11e9517d201f@@": {
+    "type": "url",
+    "original": "https://t.me/warriorhiss",
+    "hash": "519d3a6b2bab1a85"
+  },
+  "@@URL_f0c796797dca@@": {
+    "type": "url",
+    "original": "https://t.me/javidwork",
+    "hash": "487997dee90d855e"
+  },
+  "@@URL_a5aab8e64254@@": {
+    "type": "url",
+    "original": "https://t.me/Covalya",
+    "hash": "7f4542b3521461d8"
+  },
+  "@@NAME_638fa5f47d54@@": {
+    "type": "name",
+    "original": "Условие Дополнительное",
+    "hash": "23831984fe48a634"
+  },
+  "@@NAME_76595f5f2dbc@@": {
+    "type": "name",
+    "original": "Компонент Описание\nЗаголовок",
+    "hash": "4449c7961c454cbe"
+  },
+  "@@NAME_b1fa1188255f@@": {
+    "type": "name",
+    "original": "Кнопка Четкий",
+    "hash": "6fc244a1d6dc4f26"
+  },
+  "@@NAME_67911b9a62fb@@": {
+    "type": "name",
+    "original": "Сегментация Список",
+    "hash": "2b8d021429f1d632"
+  },
+  "@@CONTACT_8ceb56216067@@": {
+    "type": "contact",
+    "original": "@m4key",
+    "hash": "7a2a32d3f0e52b3d"
+  },
+  "@@CONTACT_81e8262c80d9@@": {
+    "type": "contact",
+    "original": "l.khachatryan@double.global",
+    "hash": "8b199a41d1414893"
+  },
+  "@@CONTACT_259e8e7a3e11@@": {
+    "type": "contact",
+    "original": "@li_customerx",
+    "hash": "d09d8e651d3b44b0"
+  },
+  "@@CONTACT_268206c797d3@@": {
+    "type": "contact",
+    "original": "irina@adviva.com",
+    "hash": "ad71a9863fa986fe"
+  },
+  "@@CONTACT_d75ca769090b@@": {
+    "type": "contact",
+    "original": "@ira_adv",
+    "hash": "2804522342b0e0f3"
+  },
+  "@@NAME_c5512ac765dc@@": {
+    "type": "name",
+    "original": "Должность Имя",
+    "hash": "a75a1d0667bfb2f0"
+  },
+  "@@CONTACT_59d006ac1538@@": {
+    "type": "contact",
+    "original": "l.khachatryan@double.global",
+    "hash": "8b199a41d1414893"
+  },
+  "@@CONTACT_51756ed7f0ba@@": {
+    "type": "contact",
+    "original": "@li_customerx",
+    "hash": "d09d8e651d3b44b0"
+  },
+  "@@CONTACT_40ac8d53344f@@": {
+    "type": "contact",
+    "original": "irina@adviva.com",
+    "hash": "ad71a9863fa986fe"
+  },
+  "@@CONTACT_b0443951834d@@": {
+    "type": "contact",
+    "original": "@ira_adv",
+    "hash": "2804522342b0e0f3"
+  },
+  "@@TOOL_fe92b66c52bd@@": {
+    "type": "tool",
+    "original": "Inbox 360",
+    "hash": "0b2d8f05873df96f"
+  },
+  "@@DATE_8873d67bfa55@@": {
+    "type": "date",
+    "original": "10.03.2025",
+    "hash": "dbeaf44c67e9c8b2"
+  },
+  "@@CONTACT_104029d2b649@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_b686c7d48f09@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_6650233fd611@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_16efd35e8301@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@DATE_0560441412d6@@": {
+    "type": "date",
+    "original": "10.03.2025",
+    "hash": "dbeaf44c67e9c8b2"
+  },
+  "@@CONTACT_9997342101b1@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_2c2cd3e0a4c8@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_e4e3de94da22@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_322498b0de63@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@CONTACT_854c8a02ce39@@": {
+    "type": "contact",
+    "original": "@double.",
+    "hash": "08f4a6db30f5e567"
+  },
+  "@@NAME_6992617d3e1a@@": {
+    "type": "name",
+    "original": "Елизавета Павлова",
+    "hash": "c6cf86106cddc2c1"
+  },
+  "@@NAME_938107fd6e71@@": {
+    "type": "name",
+    "original": "Григорий Терешко",
+    "hash": "923b3bade42f133a"
+  },
+  "@@NAME_57543758ae85@@": {
+    "type": "name",
+    "original": "Елизаветы Павловой",
+    "hash": "48aa58a7d42463ec"
+  },
+  "@@TOOL_2115fe27a603@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@NAME_dfec30d58c53@@": {
+    "type": "name",
+    "original": "Елизавета Павлова",
+    "hash": "c6cf86106cddc2c1"
+  },
+  "@@NAME_504d41d04313@@": {
+    "type": "name",
+    "original": "Григорий Терешко",
+    "hash": "923b3bade42f133a"
+  },
+  "@@NAME_21e483a1b446@@": {
+    "type": "name",
+    "original": "Елизаветы Павловой",
+    "hash": "48aa58a7d42463ec"
+  },
+  "@@PROJECT_b031a8bd1c55@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_818b436343c0@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@PROJECT_b63bc1c6f6cf@@": {
+    "type": "project",
+    "original": "MST",
+    "hash": "b9bfe7fff289c198"
+  },
+  "@@CONTACT_93e30cd487ae@@": {
+    "type": "contact",
+    "original": "a.stenkin@double.global",
+    "hash": "290fa808a98af701"
+  },
+  "@@CONTACT_3ac74f8c8618@@": {
+    "type": "contact",
+    "original": "@fl1eger",
+    "hash": "6d447372f89a96e3"
+  },
+  "@@NAME_c124ff5fd1e0@@": {
+    "type": "name",
+    "original": "Для Лотерей",
+    "hash": "11bbd72a762777bd"
+  },
+  "@@CONTACT_152c00f57011@@": {
+    "type": "contact",
+    "original": "@maksympromo",
+    "hash": "57c4eb8555b2a5a1"
+  },
+  "@@CONTACT_ea25713e681b@@": {
+    "type": "contact",
+    "original": "@IvanKrPM",
+    "hash": "35d93942347ff46b"
+  },
+  "@@CONTACT_564522bd3c3f@@": {
+    "type": "contact",
+    "original": "@alexandrstenkin",
+    "hash": "be41a9014657301e"
+  },
+  "@@CONTACT_9b6bbc78253b@@": {
+    "type": "contact",
+    "original": "@Elina1005",
+    "hash": "e14ea4da52843a94"
+  },
+  "@@NAME_dd644aa17917@@": {
+    "type": "name",
+    "original": "Максим Рощина",
+    "hash": "fc91fe5f68734007"
+  },
+  "@@NAME_83327930911a@@": {
+    "type": "name",
+    "original": "Киряков Иван",
+    "hash": "ffa4e9f6f56e6cbb"
+  },
+  "@@NAME_00a574285db7@@": {
+    "type": "name",
+    "original": "Алесандр Стенкин",
+    "hash": "9134d8f0f7acaf3f"
+  },
+  "@@NAME_ce4340a89207@@": {
+    "type": "name",
+    "original": "Элина Баурда",
+    "hash": "90a060882e0337eb"
+  },
+  "@@TOOL_ce1d7fc8bc0b@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_7b852771b5c7@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@CONTACT_f47eb72464ca@@": {
+    "type": "contact",
+    "original": "@maksympromo",
+    "hash": "57c4eb8555b2a5a1"
+  },
+  "@@CONTACT_28fe198139c4@@": {
+    "type": "contact",
+    "original": "@IvanKrPM",
+    "hash": "35d93942347ff46b"
+  },
+  "@@CONTACT_d257068f5765@@": {
+    "type": "contact",
+    "original": "@alexandrstenkin",
+    "hash": "be41a9014657301e"
+  },
+  "@@CONTACT_133eace37f4a@@": {
+    "type": "contact",
+    "original": "@Elina1005",
+    "hash": "e14ea4da52843a94"
+  },
+  "@@NAME_1de3a74bb945@@": {
+    "type": "name",
+    "original": "Максим Рощина",
+    "hash": "fc91fe5f68734007"
+  },
+  "@@NAME_2d959f9e1061@@": {
+    "type": "name",
+    "original": "Киряков Иван",
+    "hash": "ffa4e9f6f56e6cbb"
+  },
+  "@@NAME_6e085590d7f5@@": {
+    "type": "name",
+    "original": "Алесандр Стенкин",
+    "hash": "9134d8f0f7acaf3f"
+  },
+  "@@NAME_32659459d27f@@": {
+    "type": "name",
+    "original": "Элина Баурда",
+    "hash": "90a060882e0337eb"
+  },
+  "@@NAME_c25214aaf39c@@": {
+    "type": "name",
+    "original": "Тип Описание Цели",
+    "hash": "c40f6fe11b453497"
+  },
+  "@@NAME_912fef6df534@@": {
+    "type": "name",
+    "original": "Соб Акции",
+    "hash": "95de585098ca6701"
+  },
+  "@@NAME_df063961ecdf@@": {
+    "type": "name",
+    "original": "Повышение Среднее",
+    "hash": "3a51543eca28cca8"
+  },
+  "@@NAME_188939acbd67@@": {
+    "type": "name",
+    "original": "Регу Постоянно Удержание",
+    "hash": "2c5455bfec69a753"
+  },
+  "@@NAME_d9cfa9ab16e8@@": {
+    "type": "name",
+    "original": "Брен Акции",
+    "hash": "def34913c9d30b7f"
+  },
+  "@@NAME_9bdedee16d5d@@": {
+    "type": "name",
+    "original": "Повышение Упоминания",
+    "hash": "1774262e0342acd2"
+  },
+  "@@NAME_f6f348c00f31@@": {
+    "type": "name",
+    "original": "Акци Бонусы",
+    "hash": "5ced856cac43b2ea"
+  },
+  "@@NAME_88991c842123@@": {
+    "type": "name",
+    "original": "Депозитная Акция",
+    "hash": "ca7bcbeca733a75a"
+  },
+  "@@PROJECT_2674a469ebbf@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@NAME_0aa809da4e12@@": {
+    "type": "name",
+    "original": "Спор Акции",
+    "hash": "f7f2a899ae48bf61"
+  },
+  "@@NAME_7377fa20b97e@@": {
+    "type": "name",
+    "original": "Повышение Среднее",
+    "hash": "3a51543eca28cca8"
+  },
+  "@@NAME_dc550c385169@@": {
+    "type": "name",
+    "original": "Депозитная Акция",
+    "hash": "ca7bcbeca733a75a"
+  },
+  "@@PROJECT_2894749f8bb8@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@NAME_c188716923bc@@": {
+    "type": "name",
+    "original": "Страна Валюта Символ",
+    "hash": "e6498eb02f3ef402"
+  },
+  "@@NAME_50c8390e03db@@": {
+    "type": "name",
+    "original": "Английский Индия",
+    "hash": "c3308c9ed3a48b7f"
+  },
+  "@@NAME_6017391a3aac@@": {
+    "type": "name",
+    "original": "Канада Английский",
+    "hash": "eb0f1c49d13a319f"
+  },
+  "@@NAME_38f55374fad1@@": {
+    "type": "name",
+    "original": "Канада Французский",
+    "hash": "309b05ab59067bbe"
+  },
+  "@@PROJECT_e62f25d04531@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@NAME_cad644cba7d8@@": {
+    "type": "name",
+    "original": "Английский Индия",
+    "hash": "c3308c9ed3a48b7f"
+  },
+  "@@NAME_21c049c150a1@@": {
+    "type": "name",
+    "original": "Канада Английский",
+    "hash": "eb0f1c49d13a319f"
+  },
+  "@@NAME_1a9e83e9f1f3@@": {
+    "type": "name",
+    "original": "Канада Французский",
+    "hash": "309b05ab59067bbe"
+  },
+  "@@NAME_9bdab3b9c843@@": {
+    "type": "name",
+    "original": "Саудовская Аравия",
+    "hash": "e10f328f2f77460f"
+  },
+  "@@NAME_a46fe068502e@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_eeb680778967@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_f364e8f62256@@": {
+    "type": "name",
+    "original": "Локаль Наименование",
+    "hash": "59759859880aca24"
+  },
+  "@@NAME_f42c198329c8@@": {
+    "type": "name",
+    "original": "Валюта Ключ",
+    "hash": "a0fec528c4f4885d"
+  },
+  "@@NAME_942ad1846788@@": {
+    "type": "name",
+    "original": "Саудовская Аравия",
+    "hash": "e10f328f2f77460f"
+  },
+  "@@NAME_82e0d650272a@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_5e474df66cfa@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_afbb929e2566@@": {
+    "type": "name",
+    "original": "Саудовская Аравия",
+    "hash": "e10f328f2f77460f"
+  },
+  "@@NAME_604e16f9776b@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_912d214082ab@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_131e7709f35f@@": {
+    "type": "name",
+    "original": "Аббревиатура Страна Валюта",
+    "hash": "dcffe7517f6fa65e"
+  },
+  "@@NAME_994e91995685@@": {
+    "type": "name",
+    "original": "Английский Индия",
+    "hash": "c3308c9ed3a48b7f"
+  },
+  "@@NAME_4f91c3620328@@": {
+    "type": "name",
+    "original": "Саудовская Аравия",
+    "hash": "e10f328f2f77460f"
+  },
+  "@@NAME_ccd0549a3b1d@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_3fe9ce1cb645@@": {
+    "type": "name",
+    "original": "Штат Индии",
+    "hash": "4588788eeab09aff"
+  },
+  "@@NAME_f6f872429cae@@": {
+    "type": "name",
+    "original": "Английский Индия",
+    "hash": "c3308c9ed3a48b7f"
+  },
+  "@@URL_37ccb74484e5@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=x7VsquZlamoAzBhkho0TkQ&d=1174745116342261",
+    "hash": "ba1947dfbe1b5356"
+  },
+  "@@URL_a7fa9c20b639@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=8zEBg4q6yz89c0i1CHqi-Q&d=1174745116342261",
+    "hash": "58a01ccc657623a9"
+  },
+  "@@URL_34a71e95987c@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=2W-rEVNN__R4Idc5HH7t1w&d=1174745116342261",
+    "hash": "a0a744f18da57833"
+  },
+  "@@URL_b182e6ee6cb1@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=2W-rEVNN__R4Idc5HH7t1w&d=1174745116342261",
+    "hash": "a0a744f18da57833"
+  },
+  "@@URL_c0cf1d143635@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=8zEBg4q6yz89c0i1CHqi-Q&d=1174745116342261",
+    "hash": "58a01ccc657623a9"
+  },
+  "@@URL_57b33278486a@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=_ZM3Zj1mzTy1Hz-339PUjA&d=1174745116342261",
+    "hash": "487d931687d60dcc"
+  },
+  "@@NAME_9006edcee7a6@@": {
+    "type": "name",
+    "original": "Дизайн Система",
+    "hash": "e0cbaab474a244f6"
+  },
+  "@@NAME_0ce475a5aa50@@": {
+    "type": "name",
+    "original": "Дизайн Система",
+    "hash": "e0cbaab474a244f6"
+  },
+  "@@URL_7549fd8cfbbe@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=_ZM3Zj1mzTy1Hz-339PUjA&d=1174745116342261",
+    "hash": "487d931687d60dcc"
+  },
+  "@@URL_6ea45ef85498@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=uIdFjFXXgMEvwIAoC6i_Fg&d=1174745116342261",
+    "hash": "6764e0eff2a37d75"
+  },
+  "@@URL_9e7dd9e8432a@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=uIdFjFXXgMEvwIAoC6i_Fg&d=1174745116342261",
+    "hash": "6764e0eff2a37d75"
+  },
+  "@@URL_ed12baf182b4@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=nc3ajhWt-yVWuXSG1U5m5w&d=1174745116342261",
+    "hash": "d5c03e962ddcab72"
+  },
+  "@@URL_d913a853f797@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=bOkB6PoYGCwiUs01MLIZgQ&d=1174745116342261",
+    "hash": "a63fa8bced6031d4"
+  },
+  "@@URL_86a4b01eeac0@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=gBYxOEYI0pY1Q3ZlWi2GLg&d=1174745116342261",
+    "hash": "5e61148cdd4b8b10"
+  },
+  "@@URL_0b05e2eeb844@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=nQkrYEdZO-TqK8bFVdw2ww&d=1174745116342261",
+    "hash": "b96a12d522dacdd0"
+  },
+  "@@URL_20bef5af1443@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=nQkrYEdZO-TqK8bFVdw2ww&d=1174745116342261",
+    "hash": "b96a12d522dacdd0"
+  },
+  "@@URL_34793ca1fda3@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=0DSknHTYjf1cmHosatN3Zg&d=1174745116342261",
+    "hash": "26f70078ca1f3156"
+  },
+  "@@URL_b7adbf758ed8@@": {
+    "type": "url",
+    "original": "https://confluence.dats.tech/pages/viewpage.action?pageId=761699919",
+    "hash": "30e90574df1619b5"
+  },
+  "@@URL_632eb744402f@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=N6938xlLksG44tUUZ1gUdg&d=1174745116342261%20%D0%92%20%D0%BD%D0%B5%D0%B9%20%D0%B5%D1%81%D1%82%D1%8C%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%B2.%20%D0%92%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%20%D0%BD%D1%83%D0%B6",
+    "hash": "751bcc9bf539efce"
+  },
+  "@@URL_54ce0ebbde55@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=N6938xlLksG44tUUZ1gUdg&d=1174745116342261%20%D0%92%20%D0%BD%D0%B5%D0%B9%20%D0%B5%D1%81%D1%82%D1%8C%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%B2.%20%D0%92%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%20%D0%BD%D1%83%D0%B6",
+    "hash": "751bcc9bf539efce"
+  },
+  "@@URL_f2ab9e8ee677@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=ZNK02ZOQr5YNVQlaYNLoSA&d=1174745116342261",
+    "hash": "77a6fb659f96bafc"
+  },
+  "@@URL_3663a72513d8@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=7fCOoMvUdhHGbdIASqZR2A&d=1174745116342261",
+    "hash": "cc92d0dafabb132a"
+  },
+  "@@URL_9d61afe14863@@": {
+    "type": "url",
+    "original": "https://ab.lnabew.com/",
+    "hash": "580921fbe043dad7"
+  },
+  "@@URL_0945320bb735@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=SvUwXV6Su1gv395LrD22Sg&d=1174745116342261",
+    "hash": "53a13e9bdc3a1e63"
+  },
+  "@@PROJECT_3082bf6d03f6@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@PROJECT_6d308ddd0bb5@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@URL_848519a772a0@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=SvUwXV6Su1gv395LrD22Sg&d=1174745116342261",
+    "hash": "53a13e9bdc3a1e63"
+  },
+  "@@URL_2e3ca8f15e61@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=gBYxOEYI0pY1Q3ZlWi2GLg&d=1174745116342261",
+    "hash": "5e61148cdd4b8b10"
+  },
+  "@@URL_b591248708f5@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=Nn9USQRjNoulz2uuLtDzZQ&d=1174745116342261",
+    "hash": "63763964844ec959"
+  },
+  "@@URL_b84e7d5a00a7@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=GL7SH0HT6JiTUau1ynrqqg&d=1174745116342261",
+    "hash": "ca56b13dc3d4a9f6"
+  },
+  "@@URL_086c37322b80@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=dO-pW07RKM_CgV5PNp1MZw&d=1174745116342261",
+    "hash": "e5239b26dce9e846"
+  },
+  "@@URL_d14d398446ea@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=Q0TO4cG0jkg1KgmlL2OkdQ&d=1174745116342261",
+    "hash": "083aa71bf732c91e"
+  },
+  "@@PROJECT_aff2994f73d6@@": {
+    "type": "project",
+    "original": "BetAndreas",
+    "hash": "dddb3199e727edf7"
+  },
+  "@@URL_f77759332e53@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=Q0TO4cG0jkg1KgmlL2OkdQ&d=1174745116342261",
+    "hash": "083aa71bf732c91e"
+  },
+  "@@URL_171db9ba39fe@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=2JUtJ1zdeviA3zcQxZz0uQ&d=1174745116342261",
+    "hash": "42a2821c36caf691"
+  },
+  "@@URL_4d31c701c0dc@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=0x_CrZPqjxFz-rBF-bZH6A&d=1174745116342261",
+    "hash": "dd1ebacd8a882b06"
+  },
+  "@@URL_9e4ccdd41d1b@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=bOkB6PoYGCwiUs01MLIZgQ&d=1174745116342261",
+    "hash": "a63fa8bced6031d4"
+  },
+  "@@URL_0503f252af82@@": {
+    "type": "url",
+    "original": "https://form.asana.com/?k=1B_Z8r6OnY7Ii9BqEdYm_w&d=1174745116342261",
+    "hash": "3ccb477f09403536"
+  },
+  "@@URL_9e8a5e4c6598@@": {
+    "type": "url",
+    "original": "https://app.asana.com/0/1203311763334831/1203311763334831",
+    "hash": "7129ced2124d61b2"
+  },
+  "@@NAME_d25e3e07c2db@@": {
+    "type": "name",
+    "original": "Промо Маркетинга",
+    "hash": "00f0c0a21bf5afef"
+  },
+  "@@AMOUNT_8770a7256d06@@": {
+    "type": "amount",
+    "original": "200 RUB",
+    "hash": "d0213046a25a5cc7"
+  },
+  "@@PROJECT_9105e8fe800e@@": {
+    "type": "project",
+    "original": "Mostbet",
+    "hash": "ff0ba22cb44bc69f"
+  },
+  "@@AMOUNT_de777d30707f@@": {
+    "type": "amount",
+    "original": "6000 RUB",
+    "hash": "4967424684d6aa7f"
+  },
+  "@@AMOUNT_635a9ee2ce4f@@": {
+    "type": "amount",
+    "original": "6000 RUB",
+    "hash": "4967424684d6aa7f"
+  },
+  "@@AMOUNT_d9a8709b4f1e@@": {
+    "type": "amount",
+    "original": "000 RUB",
+    "hash": "76d5f83f3a89d92b"
+  },
+  "@@CONTACT_cc1dec9464b1@@": {
+    "type": "contact",
+    "original": "@Vitaly_promo",
+    "hash": "9c54f84d5bc3d864"
+  },
+  "@@NAME_be21670643a5@@": {
+    "type": "name",
+    "original": "Менеджер Ручных",
+    "hash": "9d8d53ffb7ff9218"
+  },
+  "@@NAME_b5b7394ca1ab@@": {
+    "type": "name",
+    "original": "Менеджер Промо",
+    "hash": "33acc3c97631332d"
+  },
+  "@@NAME_676c26aa32ca@@": {
+    "type": "name",
+    "original": "Прикладывает Правила",
+    "hash": "d06dd6f7f196feb7"
+  },
+  "@@TOOL_8fffd7e4efe2@@": {
+    "type": "tool",
+    "original": "Asana",
+    "hash": "ca96ecb62e7bfb33"
+  },
+  "@@TOOL_d09837fa0e91@@": {
+    "type": "tool",
+    "original": "Jira",
+    "hash": "8b9b0b3f792de8a6"
+  },
+  "@@NAME_492c5bf54917@@": {
+    "type": "name",
+    "original": "Лендинге Акции",
+    "hash": "678de667ca53e7b4"
+  },
+  "@@NAME_11ad0bbccd9d@@": {
+    "type": "name",
+    "original": "Менеджер Ручных",
+    "hash": "9d8d53ffb7ff9218"
+  },
+  "@@NAME_6cc30f307e95@@": {
+    "type": "name",
+    "original": "Лендинге Акции",
+    "hash": "678de667ca53e7b4"
+  },
+  "@@NAME_e87a8e1d00fd@@": {
+    "type": "name",
+    "original": "Отдел Ручных",
+    "hash": "36a34e29bd34a9de"
+  },
+  "@@NAME_a81e45e1fb60@@": {
+    "type": "name",
+    "original": "Менеджер Ручных",
+    "hash": "9d8d53ffb7ff9218"
+  },
+  "@@NAME_b2e81cafff0e@@": {
+    "type": "name",
+    "original": "Механики Промо Акций",
+    "hash": "9ab8ba03d793265e"
+  }
+}
